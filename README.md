@@ -1,13 +1,13 @@
 # Project1
 Adam, Preeya, Peter
-### "The affects of Medical Marijuana and diseases throughout"
+### "Relationships between Opioid Addiction, Dispensaries, and Drug Stores"
 ***
 **Title:** "Relationships between Opioid Addiction, Dispensaries, and Drug Stores"
 
 **Team Members:** Preeya Dahya, Peter Myers, Adam Feldstein
 
 **Project Description/Outline:**  
-- We will use google places to acquire information on the density of pharmacies/drug stores which in California and Colorado. We will also look at dispensary desnities in those states. We'll then acquire opioid addiction rates within those states and look at whether there are potential relationships between the addiction rates and the availability of dispensaries vs. pharmacies.  
+- We will use google places to acquire information on the density of pharmacies/drug stores which in California and Colorado. We will also look at dispensary desnities in those states. We'll then acquire opioid addiction rates within those states and look at whether there are potential relationships between the addiction rates and the availability of dispensaries vs. pharmacies. 
     
 **Research Questions to Answer:**
     1. What is the relationship between number of dispensaries and number of pharmacies within a state? 
@@ -22,7 +22,10 @@ Adam, Preeya, Peter
 - data.gov
     
 **Rough Breakdown of Tasks:**
-- Adam- Question 4 
+- Adam - Question 4
+- Preeya- Question 3
+- Peter- Question 2 and 1
+
 
 **Problems:**
 - Problems we maybe facing is actually getting the data on medical marijuana so in order to solve this we will have to be more creative in our way of searching for the data and what kinda of data sets we can look at. 
