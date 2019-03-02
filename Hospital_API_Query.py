@@ -8,9 +8,13 @@ heart_df = pd.read_csv("./Heart_Disease_Mortality_Data_Among_US_Adults_35_by_Sta
 
 print(heart_df.head())
 
+# print(heart_df.count())
+
 heart_county_df = heart_df[heart_df["GeographicLevel"]=="County"]
 
 print(heart_county_df.head())
+
+# print(heart_county_df.count())
 
 heart_county_df = heart_county_df.head()
 base_url = "https://maps.googleapis.com/maps/api/place/textsearch/json"
@@ -19,6 +23,8 @@ target_type = "hospitals"
 gkey = "AIzaSyDIIaLDgFwpgQTpp17XxShP57DDhF3WoUg"
 
 heart_county_json_df = pd.DataFrame(columns=["County", "JSON_Data"])
+
+print(heart_county_json_df.head())
 
 for index, row in heart_county_df.iterrows():
     target_county = row["LocationDesc"]
@@ -29,6 +35,8 @@ for index, row in heart_county_df.iterrows():
     }
 
     county_json_data = requests.get(base_url, params=params)
+
+    print(county_json_data)
 
     county_json_data = county_json_data.json()
 
@@ -42,4 +50,4 @@ for index, row in heart_county_df.iterrows():
     # except (KeyError, IndexError):
     #     print("Well fuck")
 
-print(heart_county_json_df["JSON_Data"])
+# print(heart_county_json_df["JSON_Data"])
