@@ -68,11 +68,14 @@ census_pd["hisp_rate"] = 100 * (census_pd["poverty_Hisp"].astype(int) / census_p
 # Configure gmaps with API key
 gmaps.configure(api_key=gmap_api)
 # Store 'Lat' and 'Lng' into  locations 
-locations = df[["Lat", "Lng"]].astype(float)
-
+locations = county[["County", "Lat", "Lng"]]
+locations.Lat = locations.Lat.astype(float)
+locations.Lng = locations.Lng.astype(float)
 # Convert Poverty Rate to float and store
 # HINT: be sure to handle NaN values
-poverty_rate_white = census_pd["white_rate"].astype(float)
+poverty_rate_white = census_pd["CountyName", "white_rate"]
+
+pov_whitemap = merge(how = "inner", locations, poverty_rate_white)
 
 # Create a poverty Heatmap layer
 White_povmap = gmaps.figure()
