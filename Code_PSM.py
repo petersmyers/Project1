@@ -68,24 +68,27 @@ census_pd["hisp_rate"] = 100 * (census_pd["poverty_Hisp"].astype(int) / census_p
 # Configure gmaps with API key
 gmaps.configure(api_key=gmap_api)
 # Store 'Lat' and 'Lng' into  locations 
-locations = df[["Lat", "Lng"]].astype(float)
+locations = county[["Lat", "Lng"]].astype(float)
+
+# locations = (1,2)
 
 # Convert Poverty Rate to float and store
 # HINT: be sure to handle NaN values
 poverty_rate_white = census_pd["white_rate"].astype(float)
+# poverty_rate_white = census_pd["white_rate"][1].astype(float)
 
 # Create a poverty Heatmap layer
-White_povmap = gmaps.figure()
+white_povmap = gmaps.figure()
 
 heat_layer_white = gmaps.heatmap_layer(locations, weights=poverty_rate_white, 
                                  dissipating=False, max_intensity=100,
                                  point_radius = 1)
 
 # Adjust heat_layer setting to help with heatmap dissipating on zoom
-heat_layer.dissipating = False
-heat_layer.max_intensity = 100
-heat_layer.point_radius = 1
+heat_layer_white.dissipating = False
+heat_layer_white.max_intensity = 100
+heat_layer_white.point_radius = 1
 
-fig.add_layer(heat_layer_white)
+white_povmap.add_layer(heat_layer_white)
 
-fig
+white_povmap
