@@ -37,6 +37,14 @@ census_pd = census_pd.rename(columns={"B17001A_002E": "poverty_White",
                                         "B17001I_002E": "poverty_Hisp",
                                           "NAME": "Name", "county": "Country"})
 
+# Divide the "name" into its county and state separately. 
+census_pd["CountyName"] = ""
+census_pd["StateName"] = ""
+for i in range(0,len(census_pd)):
+    st = census_pd.Name[i].split(",")
+    ct = st[0].split("County")
+    census_pd.CountyName[i] = ct[0]
+    census_pd.StateName[i] = st[1]
 # Add in Poverty Rate (Poverty Count / Population)
 census_pd["Poverty Rate"] = 100 * \
     census_pd["Poverty Count"].astype(
