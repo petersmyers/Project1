@@ -2,6 +2,10 @@ import os
 import csv
 import pandas as pd
 
+#Importing and Reading csv
+file = "Data.csv"
+df = pd.read_csv(file)
+
 # Deleting Useless Columns
 df = df.drop(columns= ["Year", "GeographicLevel","DataSource","Class",'Topic',"Data_Value_Type",'Data_Value_Footnote_Symbol','Data_Value_Footnote','StratificationCategory1','StratificationCategory2','TopicID','LocationID','Data_Value_Unit'])
 df = df.rename(columns={"LocationAbbr": "State", "LocationDesc": "County", "Data_Value": "Value", "Stratification1": "Gender", "Stratification2": "Race/Ethnicity", "Location 1": "LatLng"})
