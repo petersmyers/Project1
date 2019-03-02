@@ -21,7 +21,7 @@ heart_county_df = heart_county_df.head()
 base_url = "https://maps.googleapis.com/maps/api/place/textsearch/json"
 
 target_type = "hospitals"
-gkey = ""
+gkey = input("Enter an API key. ")
 
 heart_county_json_df = pd.DataFrame(columns=["County", "JSON_Data"])
 
@@ -32,7 +32,7 @@ for index, row in heart_county_df.iterrows():
     target_county.replace(" ", "+")
     target_state = row["LocationAbbr"]
     params = {
-        "query": f"{target_type}s+in+{target_county},+{target_state}",
+        "query": f"{target_type}+in+{target_county},+{target_state}",
         "key": gkey
     }
 
@@ -42,11 +42,12 @@ for index, row in heart_county_df.iterrows():
 
     county_json_data = county_json_data.json()
     
-    with open("data.txt", "w") as f:
-        f.write(json.dumps(county_json_data, indent = 4, sort_keys = True))
+    # with open("data.txt", "w") as f:
+    #     f.write(json.dumps(county_json_data, indent = 4, sort_keys = True))
 
-#     county_json_data_df = pd.DataFrame.from_dict(json_normalize(county_json_data), orient="columns")
-#     print(county_json_data_df.head())
+    county_json_data_df = pd.DataFrame.from_dict(json_normalize(county_json_data["results"]), orient="columns")
+    print(county_json_data_df.head())
+#     for items in 
 #     try:
 #         heart_county_json_df.loc[index, "County"] = target_county
 #         heart_county_json_df.loc[index, "JSON_Data"] = county_json_data_df["results"]["name"]
