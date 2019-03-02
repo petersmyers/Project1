@@ -50,8 +50,7 @@ census_pd["CountyName"] = ""
 census_pd["StateName"] = ""
 for i in range(0,len(census_pd)):
     st = census_pd.Name[i].split(",")
-    ct = st[0].split("County")
-    census_pd.CountyName[i] = ct[0]
+    census_pd.CountyName[i] = st[0]
     census_pd.StateName[i] = st[1]
 
 # Add in Poverty Rate (Poverty Count / Population)
@@ -73,14 +72,16 @@ locations.Lat = locations.Lat.astype(float)
 locations.Lng = locations.Lng.astype(float)
 # Convert Poverty Rate to float and store
 # HINT: be sure to handle NaN values
-poverty_rate_white = census_pd["CountyName", "white_rate"]
+poverty_rate_white = census_pd[["CountyName", "white_rate"]]
+poverty_rate_white= poverty_rate_white.rename(columns = {"CountyName": "County"})
+poverty_rate_white.head()
 
-pov_whitemap = merge(how = "inner", locations, poverty_rate_white)
+pov_whitemap = pd.merge(locations, poverty_rate_white, on = "County", how = "inner")
 
 # Create a poverty Heatmap layer
 White_povmap = gmaps.figure()
 
-heat_layer_white = gmaps.heatmap_layer(locations, weights=poverty_rate_white, 
+heat_layer_white = gmaps.heatmap_layer(pov_whitemap[["Lat", "Lng"]], weights=pov_whitemap["white_rate"], 
                                  dissipating=False, max_intensity=100,
                                  point_radius = 1)
 
@@ -89,6 +90,6 @@ heat_layer.dissipating = False
 heat_layer.max_intensity = 100
 heat_layer.point_radius = 1
 
-fig.add_layer(heat_layer_white)
+White_povmap.add_layer(heat_layer_white)
 
-fig
+White_povmap
