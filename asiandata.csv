@@ -1,0 +1,872 @@
+,State,County,Value,Gender,Race/Ethnicity,Lat,Lng
+327,AK,Anchorage,214.9,Overall,Asian and Pacific Islander,61.159049,-149.103905
+335,AK,Kenai Peninsula,125.0,Overall,Asian and Pacific Islander,60.271254,-151.556972
+340,AK,Matanuska-Susitna,94.6,Overall,Asian and Pacific Islander,62.31628,-149.600476
+500,AK,Alaska,172.6,Overall,Asian and Pacific Islander,64.3173,-152.571
+1535,AL,Alabama,79.8,Overall,Asian and Pacific Islander,32.7949,-86.8267
+1367,AL,Shelby County,113.6,Overall,Asian and Pacific Islander,33.272349,-86.662124
+1357,AL,Mobile County,66.6,Overall,Asian and Pacific Islander,30.801931,-88.209318
+1359,AL,Montgomery County,24.2,Overall,Asian and Pacific Islander,32.22779,-86.207305
+1349,AL,Lee County,199.2,Overall,Asian and Pacific Islander,32.605632,-85.354778
+1345,AL,Jefferson County,110.6,Overall,Asian and Pacific Islander,33.558145,-86.898116
+1310,AL,Baldwin County,98.4,Overall,Asian and Pacific Islander,30.74338,-87.725037
+1353,AL,Madison County,67.4,Overall,Asian and Pacific Islander,34.765116,-86.548305
+2681,AR,Perry County,185.1,Overall,Asian and Pacific Islander,34.94841,-92.926464
+3094,AR,Arkansas,238.1,Overall,Asian and Pacific Islander,34.8982,-92.434
+2700,AR,Washington County,423.4,Overall,Asian and Pacific Islander,35.983532,-94.211027
+2694,AR,Sebastian County,61.4,Overall,Asian and Pacific Islander,35.204556,-94.269852
+2691,AR,Saline County,206.1,Overall,Asian and Pacific Islander,34.648616,-92.670612
+2688,AR,Pulaski County,221.8,Overall,Asian and Pacific Islander,34.774054,-92.306339
+2674,AR,Miller County,244.1,Overall,Asian and Pacific Islander,33.315038,-93.885932
+2646,AR,Crittenden County,123.8,Overall,Asian and Pacific Islander,35.212678,-90.304439
+2671,AR,Lonoke County,143.6,Overall,Asian and Pacific Islander,34.7573,-91.885367
+2655,AR,Grant County,219.2,Overall,Asian and Pacific Islander,34.293385,-92.417835
+2651,AR,Faulkner County,117.5,Overall,Asian and Pacific Islander,35.151897,-92.330019
+2645,AR,Crawford County,85.1,Overall,Asian and Pacific Islander,35.594457,-94.238183
+2636,AR,Carroll County,356.4,Overall,Asian and Pacific Islander,36.337081,-93.531133
+2632,AR,Benton County,402.0,Overall,Asian and Pacific Islander,36.336622,-94.249746
+2672,AR,Madison County,367.3,Overall,Asian and Pacific Islander,36.012684,-93.719185
+3327,AZ,Santa Cruz County,113.4,Overall,Asian and Pacific Islander,31.529883,-110.845298
+3416,AZ,Arizona,138.6,Overall,Asian and Pacific Islander,34.2921,-111.664
+3329,AZ,Yuma County,134.9,Overall,Asian and Pacific Islander,32.773238,-113.910496
+3328,AZ,Yavapai County,134.6,Overall,Asian and Pacific Islander,34.608704,-112.54524
+3326,AZ,Pinal County,135.5,Overall,Asian and Pacific Islander,32.914678,-111.348484
+3325,AZ,Pima County,115.1,Overall,Asian and Pacific Islander,32.1062,-111.792469
+3322,AZ,Maricopa County,133.8,Overall,Asian and Pacific Islander,33.361136,-112.488734
+3321,AZ,La Paz County,171.9,Overall,Asian and Pacific Islander,33.734098,-113.976886
+3318,AZ,Gila County,142.5,Overall,Asian and Pacific Islander,33.804838,-110.80672
+3317,AZ,Coconino County,201.1,Overall,Asian and Pacific Islander,35.843083,-111.759129
+3316,AZ,Cochise County,156.3,Overall,Asian and Pacific Islander,31.890942,-109.75114
+3323,AZ,Mohave County,216.2,Overall,Asian and Pacific Islander,35.704508,-113.749417
+4150,CA,Riverside County,174.8,Overall,Asian and Pacific Islander,33.745425,-115.994935
+4160,CA,Santa Clara County,130.1,Overall,Asian and Pacific Islander,37.224522,-121.684758
+4159,CA,Santa Barbara County,153.8,Overall,Asian and Pacific Islander,34.672496,-120.012285
+4158,CA,San Mateo County,175.2,Overall,Asian and Pacific Islander,37.423939,-122.322358
+4157,CA,San Luis Obispo County,209.3,Overall,Asian and Pacific Islander,35.390034,-120.400968
+4154,CA,San Diego County,168.9,Overall,Asian and Pacific Islander,33.035423,-116.737646
+4155,CA,San Francisco County,149.6,Overall,Asian and Pacific Islander,37.746542,-122.430647
+4161,CA,Santa Cruz County,168.4,Overall,Asian and Pacific Islander,37.052057,-121.982295
+4153,CA,San Bernardino County,204.8,Overall,Asian and Pacific Islander,34.844701,-116.176459
+4152,CA,San Benito County,150.7,Overall,Asian and Pacific Islander,36.605701,-121.060133
+4151,CA,Sacramento County,204.5,Overall,Asian and Pacific Islander,38.465312,-121.31769
+4156,CA,San Joaquin County,208.6,Overall,Asian and Pacific Islander,37.932727,-121.264123
+4162,CA,Shasta County,199.9,Overall,Asian and Pacific Islander,40.758306,-122.03692
+4166,CA,Sonoma County,170.5,Overall,Asian and Pacific Islander,38.527617,-122.887364
+4164,CA,Siskiyou County,193.2,Overall,Asian and Pacific Islander,41.588337,-122.533844
+4165,CA,Solano County,176.4,Overall,Asian and Pacific Islander,38.288602,-121.913023
+4167,CA,Stanislaus County,204.2,Overall,Asian and Pacific Islander,37.553933,-120.989631
+4168,CA,Sutter County,213.2,Overall,Asian and Pacific Islander,39.033545,-121.687339
+4169,CA,Tehama County,212.4,Overall,Asian and Pacific Islander,40.12057,-122.226655
+4170,CA,Trinity County,199.4,Overall,Asian and Pacific Islander,40.64749,-123.104847
+4172,CA,Tulare County,257.2,Overall,Asian and Pacific Islander,36.220455,-118.792225
+4173,CA,Tuolumne County,224.1,Overall,Asian and Pacific Islander,38.024398,-119.946028
+4174,CA,Ventura County,165.9,Overall,Asian and Pacific Islander,34.472949,-119.076397
+4175,CA,Yolo County,174.4,Overall,Asian and Pacific Islander,38.68661,-121.897776
+4176,CA,Yuba County,195.3,Overall,Asian and Pacific Islander,39.268646,-121.340045
+4476,CA,California,173.0,Overall,Asian and Pacific Islander,37.2414,-119.601
+4163,CA,Sierra County,208.1,Overall,Asian and Pacific Islander,39.576693,-120.505271
+4149,CA,Plumas County,205.9,Overall,Asian and Pacific Islander,40.002158,-120.838191
+4133,CA,Kings County,211.0,Overall,Asian and Pacific Islander,36.078649,-119.803263
+4147,CA,Orange County,167.6,Overall,Asian and Pacific Islander,33.704545,-117.756775
+4118,CA,Alameda County,136.8,Overall,Asian and Pacific Islander,37.640732,-121.874174
+4119,CA,Alpine County,202.9,Overall,Asian and Pacific Islander,38.596494,-119.817775
+4120,CA,Amador County,206.7,Overall,Asian and Pacific Islander,38.441847,-120.650063
+4121,CA,Butte County,235.3,Overall,Asian and Pacific Islander,39.663077,-121.592018
+4122,CA,Calaveras County,217.5,Overall,Asian and Pacific Islander,38.202946,-120.544084
+4123,CA,Colusa County,200.7,Overall,Asian and Pacific Islander,39.178048,-122.229505
+4124,CA,Contra Costa County,144.7,Overall,Asian and Pacific Islander,37.913598,-121.912906
+4126,CA,El Dorado County,191.9,Overall,Asian and Pacific Islander,38.775788,-120.518515
+4127,CA,Fresno County,230.3,Overall,Asian and Pacific Islander,36.754708,-119.641323
+4148,CA,Placer County,182.0,Overall,Asian and Pacific Islander,39.061511,-120.710638
+4130,CA,Imperial County,172.4,Overall,Asian and Pacific Islander,33.041824,-115.364568
+4131,CA,Inyo County,225.5,Overall,Asian and Pacific Islander,36.508867,-117.407146
+4132,CA,Kern County,235.1,Overall,Asian and Pacific Islander,35.345591,-118.73308
+4128,CA,Glenn County,259.0,Overall,Asian and Pacific Islander,39.597469,-122.383535
+4134,CA,Lake County,313.5,Overall,Asian and Pacific Islander,39.09737,-122.744185
+4146,CA,Nevada County,185.3,Overall,Asian and Pacific Islander,39.295924,-120.761996
+4144,CA,Monterey County,196.1,Overall,Asian and Pacific Islander,36.216903,-121.227026
+4143,CA,Mono County,235.9,Overall,Asian and Pacific Islander,37.933321,-118.882552
+4142,CA,Modoc County,211.4,Overall,Asian and Pacific Islander,41.583941,-120.718904
+4141,CA,Merced County,178.8,Overall,Asian and Pacific Islander,37.186923,-120.704731
+4145,CA,Napa County,176.4,Overall,Asian and Pacific Islander,38.508289,-122.327344
+4139,CA,Mariposa County,216.8,Overall,Asian and Pacific Islander,37.575843,-119.896002
+4138,CA,Marin County,139.5,Overall,Asian and Pacific Islander,38.073204,-122.720114
+4137,CA,Madera County,227.3,Overall,Asian and Pacific Islander,37.212682,-119.74733
+4136,CA,Los Angeles County,190.5,Overall,Asian and Pacific Islander,34.322796,-118.221787
+4135,CA,Lassen County,212.8,Overall,Asian and Pacific Islander,40.669961,-120.589843
+4140,CA,Mendocino County,178.7,Overall,Asian and Pacific Islander,39.436309,-123.377828
+5283,CO,Jefferson County,117.3,Overall,Asian and Pacific Islander,39.577553,-105.242443
+5649,CO,Colorado,144.7,Overall,Asian and Pacific Islander,38.997,-105.549
+5315,CO,Weld County,145.8,Overall,Asian and Pacific Islander,40.550109,-104.385488
+5314,CO,Washington County,149.7,Overall,Asian and Pacific Islander,39.965516,-103.196933
+5304,CO,Pueblo County,191.2,Overall,Asian and Pacific Islander,38.165118,-104.508192
+5300,CO,Park County,78.6,Overall,Asian and Pacific Islander,39.115556,-105.708386
+5297,CO,Morgan County,176.6,Overall,Asian and Pacific Islander,40.25375,-103.796773
+5290,CO,Lincoln County,158.0,Overall,Asian and Pacific Islander,38.983874,-103.511098
+5288,CO,Larimer County,110.2,Overall,Asian and Pacific Islander,40.665696,-105.461306
+5277,CO,Gilpin County,108.8,Overall,Asian and Pacific Islander,39.854241,-105.51357
+5274,CO,El Paso County,188.2,Overall,Asian and Pacific Islander,38.827873,-104.517767
+5275,CO,Fremont County,225.7,Overall,Asian and Pacific Islander,38.468555,-105.433111
+5273,CO,Elbert County,139.6,Overall,Asian and Pacific Islander,39.279258,-104.129632
+5271,CO,Douglas County,93.2,Overall,Asian and Pacific Islander,39.323918,-104.918921
+5268,CO,Denver County,143.4,Overall,Asian and Pacific Islander,39.759723,-104.873506
+5265,CO,Crowley County,191.9,Overall,Asian and Pacific Islander,38.317336,-103.775266
+5262,CO,Clear Creek County,109.1,Overall,Asian and Pacific Islander,39.686144,-105.637226
+5259,CO,Broomfield County,148.9,Overall,Asian and Pacific Islander,39.952,-105.058465
+5258,CO,Boulder County,121.4,Overall,Asian and Pacific Islander,40.089231,-105.357986
+5254,CO,Arapahoe County,136.0,Overall,Asian and Pacific Islander,39.643411,-104.338029
+5252,CO,Adams County,146.5,Overall,Asian and Pacific Islander,39.868295,-104.336349
+5808,CT,Connecticut,144.1,Overall,Asian and Pacific Islander,41.6179,-72.7254
+5757,CT,Tolland County,295.8,Overall,Asian and Pacific Islander,41.850468,-72.337217
+5756,CT,New London County,187.9,Overall,Asian and Pacific Islander,41.482454,-72.101326
+5755,CT,New Haven County,119.4,Overall,Asian and Pacific Islander,41.40982,-72.932986
+5758,CT,Windham County,265.2,Overall,Asian and Pacific Islander,41.828471,-71.988129
+5753,CT,Litchfield County,134.0,Overall,Asian and Pacific Islander,41.793458,-73.242925
+5752,CT,Hartford County,164.9,Overall,Asian and Pacific Islander,41.805257,-72.732819
+5754,CT,Middlesex County,122.1,Overall,Asian and Pacific Islander,41.465995,-72.535443
+5751,CT,Fairfield County,116.4,Overall,Asian and Pacific Islander,41.274732,-73.384499
+5844,DC,District of Columbia,171.6,Overall,Asian and Pacific Islander,38.9005,-77.0159
+5826,DC,District of Columbia County,153.2,Overall,Asian and Pacific Islander,38.900481,-77.015933
+5916,DE,Delaware,143.7,Overall,Asian and Pacific Islander,38.9952,-75.5014
+5888,DE,Sussex County,153.3,Overall,Asian and Pacific Islander,38.665483,-75.389649
+5886,DE,Kent County,143.1,Overall,Asian and Pacific Islander,39.0873,-75.56907
+5887,DE,New Castle County,153.3,Overall,Asian and Pacific Islander,39.58177,-75.651456
+6778,FL,Pasco County,135.0,Overall,Asian and Pacific Islander,28.309881,-82.386594
+6770,FL,Miami-Dade County,157.7,Overall,Asian and Pacific Islander,25.610647,-80.570521
+6771,FL,Monroe County,139.5,Overall,Asian and Pacific Islander,25.491043,-80.990432
+6772,FL,Nassau County,144.1,Overall,Asian and Pacific Islander,30.60322,-81.83334
+6773,FL,Okaloosa County,76.4,Overall,Asian and Pacific Islander,30.713173,-86.59025
+6774,FL,Okeechobee County,154.5,Overall,Asian and Pacific Islander,27.391342,-80.889544
+6775,FL,Orange County,157.2,Overall,Asian and Pacific Islander,28.510737,-81.324829
+6776,FL,Osceola County,164.3,Overall,Asian and Pacific Islander,28.058305,-81.150404
+6777,FL,Palm Beach County,172.9,Overall,Asian and Pacific Islander,26.64388,-80.475176
+6779,FL,Pinellas County,166.7,Overall,Asian and Pacific Islander,27.938988,-82.725335
+6769,FL,Martin County,140.0,Overall,Asian and Pacific Islander,27.075869,-80.447072
+6781,FL,Putnam County,145.8,Overall,Asian and Pacific Islander,29.610473,-81.739685
+6782,FL,St. Johns County,143.6,Overall,Asian and Pacific Islander,29.887448,-81.449287
+6783,FL,St. Lucie County,109.6,Overall,Asian and Pacific Islander,27.378926,-80.48859
+6784,FL,Santa Rosa County,75.1,Overall,Asian and Pacific Islander,30.733193,-87.011629
+6785,FL,Sarasota County,110.9,Overall,Asian and Pacific Islander,27.180267,-82.317079
+6786,FL,Seminole County,150.6,Overall,Asian and Pacific Islander,28.714693,-81.235649
+6787,FL,Sumter County,147.7,Overall,Asian and Pacific Islander,28.702429,-82.077825
+6792,FL,Volusia County,147.4,Overall,Asian and Pacific Islander,29.056633,-81.196249
+7146,FL,Florida,147.3,Overall,Asian and Pacific Islander,28.6588,-82.497
+6767,FL,Manatee County,106.2,Overall,Asian and Pacific Islander,27.469165,-82.29681
+6780,FL,Polk County,147.7,Overall,Asian and Pacific Islander,27.946248,-81.700632
+6764,FL,Levy County,168.0,Overall,Asian and Pacific Islander,29.326437,-82.735832
+6768,FL,Marion County,152.9,Overall,Asian and Pacific Islander,29.210149,-82.056158
+6762,FL,Lee County,111.9,Overall,Asian and Pacific Islander,26.582309,-81.796885
+6763,FL,Leon County,130.5,Overall,Asian and Pacific Islander,30.462683,-84.279454
+6727,FL,Alachua County,156.9,Overall,Asian and Pacific Islander,29.676002,-82.353876
+6728,FL,Baker County,143.6,Overall,Asian and Pacific Islander,30.330308,-82.28286
+6729,FL,Bay County,96.1,Overall,Asian and Pacific Islander,30.290363,-85.609591
+6730,FL,Bradford County,147.5,Overall,Asian and Pacific Islander,29.951055,-82.166588
+6731,FL,Brevard County,157.4,Overall,Asian and Pacific Islander,28.257929,-80.749258
+6734,FL,Charlotte County,131.4,Overall,Asian and Pacific Islander,26.905211,-81.890923
+6735,FL,Citrus County,151.6,Overall,Asian and Pacific Islander,28.853296,-82.459692
+6736,FL,Clay County,148.6,Overall,Asian and Pacific Islander,29.984428,-81.851458
+6737,FL,Collier County,144.9,Overall,Asian and Pacific Islander,26.123444,-81.33313
+6739,FL,DeSoto County,100.7,Overall,Asian and Pacific Islander,27.184187,-81.808571
+6732,FL,Broward County,185.9,Overall,Asian and Pacific Islander,26.151212,-80.491447
+6742,FL,Escambia County,164.7,Overall,Asian and Pacific Islander,30.700541,-87.3627
+6761,FL,Lake County,158.3,Overall,Asian and Pacific Islander,28.766819,-81.704198
+6741,FL,Duval County,147.0,Overall,Asian and Pacific Islander,30.32506,-81.686521
+6757,FL,Indian River County,174.8,Overall,Asian and Pacific Islander,27.692209,-80.62077
+6754,FL,Highlands County,168.1,Overall,Asian and Pacific Islander,27.342716,-81.339535
+6753,FL,Hernando County,123.0,Overall,Asian and Pacific Islander,28.550519,-82.418963
+6755,FL,Hillsborough County,123.0,Overall,Asian and Pacific Islander,27.930572,-82.306883
+6752,FL,Hendry County,165.9,Overall,Asian and Pacific Islander,26.555574,-81.166212
+6751,FL,Hardee County,118.9,Overall,Asian and Pacific Islander,27.489469,-81.809965
+6748,FL,Glades County,143.9,Overall,Asian and Pacific Islander,26.959153,-81.184099
+6743,FL,Flagler County,105.3,Overall,Asian and Pacific Islander,29.458065,-81.316023
+9150,GA,McDuffie County,153.9,Overall,Asian and Pacific Islander,33.484846,-82.479361
+9125,GA,Hall County,121.5,Overall,Asian and Pacific Islander,34.318744,-83.816851
+9131,GA,Henry County,152.6,Overall,Asian and Pacific Islander,33.45538,-84.151325
+9132,GA,Houston County,178.8,Overall,Asian and Pacific Islander,32.458931,-83.662132
+9123,GA,Gwinnett County,146.3,Overall,Asian and Pacific Islander,33.963322,-84.022519
+9162,GA,Muscogee County,219.1,Overall,Asian and Pacific Islander,32.507301,-84.869531
+9182,GA,Spalding County,123.1,Overall,Asian and Pacific Islander,33.261971,-84.281636
+9177,GA,Richmond County,154.6,Overall,Asian and Pacific Islander,33.36484,-82.073958
+9178,GA,Rockdale County,150.4,Overall,Asian and Pacific Islander,33.656331,-84.022149
+9186,GA,Talbot County,268.9,Overall,Asian and Pacific Islander,32.695105,-84.524459
+9202,GA,Walker County,147.5,Overall,Asian and Pacific Islander,34.732675,-85.299148
+9116,GA,Fulton County,152.9,Overall,Asian and Pacific Islander,33.790015,-84.46373
+9166,GA,Paulding County,118.6,Overall,Asian and Pacific Islander,33.922749,-84.861338
+9114,GA,Forsyth County,127.9,Overall,Asian and Pacific Islander,34.228299,-84.125126
+9078,GA,Carroll County,165.4,Overall,Asian and Pacific Islander,33.579697,-85.074917
+9104,GA,Douglas County,150.7,Overall,Asian and Pacific Islander,33.703456,-84.76449
+9100,GA,DeKalb County,150.6,Overall,Asian and Pacific Islander,33.76995,-84.22092
+9098,GA,Dawson County,106.2,Overall,Asian and Pacific Islander,34.441935,-84.169031
+9094,GA,Coweta County,184.6,Overall,Asian and Pacific Islander,33.35135,-84.753872
+9092,GA,Columbia County,151.0,Overall,Asian and Pacific Islander,33.549892,-82.269178
+9089,GA,Cobb County,133.0,Overall,Asian and Pacific Islander,33.948335,-84.570761
+9087,GA,Clayton County,158.0,Overall,Asian and Pacific Islander,33.545449,-84.349814
+9084,GA,Cherokee County,178.5,Overall,Asian and Pacific Islander,34.249463,-84.474399
+9081,GA,Chatham County,145.4,Overall,Asian and Pacific Islander,32.012553,-81.152775
+9079,GA,Catoosa County,161.6,Overall,Asian and Pacific Islander,34.903968,-85.131447
+9064,GA,Bartow County,246.4,Overall,Asian and Pacific Islander,34.238748,-84.837627
+9063,GA,Barrow County,169.5,Overall,Asian and Pacific Islander,33.99756,-83.711007
+9203,GA,Walton County,161.3,Overall,Asian and Pacific Islander,33.782793,-83.732178
+9112,GA,Fayette County,119.1,Overall,Asian and Pacific Islander,33.416638,-84.480353
+10029,GA,Georgia,151.6,Overall,Asian and Pacific Islander,32.6549,-83.4547
+10164,HI,Hawaii,254.7,Overall,Asian and Pacific Islander,20.2408,-156.326
+10126,HI,Maui County,267.9,Overall,Asian and Pacific Islander,20.866278,-156.554541
+10125,HI,Kauai County,252.0,Overall,Asian and Pacific Islander,22.039971,-159.583922
+10124,HI,Kalawao County,275.0,Overall,Asian and Pacific Islander,21.170396,-156.952666
+10123,HI,Honolulu County,246.9,Overall,Asian and Pacific Islander,21.454272,-157.979716
+10122,HI,Hawaii County,289.9,Overall,Asian and Pacific Islander,19.599934,-155.506501
+11695,IA,Iowa,167.4,Overall,Asian and Pacific Islander,42.076,-93.5022
+11442,IA,Story County,63.9,Overall,Asian and Pacific Islander,42.034374,-93.470614
+11439,IA,Scott County,128.0,Overall,Asian and Pacific Islander,41.637571,-90.624373
+11434,IA,Polk County,190.6,Overall,Asian and Pacific Islander,41.682521,-93.578075
+11420,IA,Marion County,206.4,Overall,Asian and Pacific Islander,41.334786,-93.101922
+11418,IA,Madison County,181.8,Overall,Asian and Pacific Islander,41.334159,-94.024822
+11414,IA,Linn County,93.7,Overall,Asian and Pacific Islander,42.075201,-91.602636
+11409,IA,Johnson County,94.0,Overall,Asian and Pacific Islander,41.668732,-91.59111
+11407,IA,Jasper County,184.5,Overall,Asian and Pacific Islander,41.686764,-93.055929
+11382,IA,Dallas County,181.6,Overall,Asian and Pacific Islander,41.684613,-94.046563
+11365,IA,Boone County,149.1,Overall,Asian and Pacific Islander,42.034355,-93.937622
+12778,ID,Idaho,161.1,Overall,Asian and Pacific Islander,44.3858,-114.661
+12537,ID,Owyhee County,161.6,Overall,Asian and Pacific Islander,42.580541,-116.163672
+12528,ID,Kootenai County,164.8,Overall,Asian and Pacific Islander,47.669654,-116.701428
+12523,ID,Gem County,151.4,Overall,Asian and Pacific Islander,44.058676,-116.388233
+12509,ID,Bonner County,157.6,Overall,Asian and Pacific Islander,48.293303,-116.600111
+12514,ID,Canyon County,154.7,Overall,Asian and Pacific Islander,43.621432,-116.704712
+12505,ID,Benewah County,161.1,Overall,Asian and Pacific Islander,47.210753,-116.659089
+12501,ID,Ada County,142.3,Overall,Asian and Pacific Islander,43.443315,-116.233977
+12520,ID,Elmore County,157.0,Overall,Asian and Pacific Islander,43.345737,-115.459493
+14067,IL,Madison County,148.6,Overall,Asian and Pacific Islander,38.831539,-89.910487
+14638,IL,Illinois,162.0,Overall,Asian and Pacific Islander,40.0644,-89.2034
+14108,IL,Winnebago County,240.5,Overall,Asian and Pacific Islander,42.335477,-89.164615
+14106,IL,Will County,144.2,Overall,Asian and Pacific Islander,41.448429,-87.985177
+14096,IL,Stephenson County,234.7,Overall,Asian and Pacific Islander,42.349872,-89.663254
+14091,IL,Sangamon County,230.0,Overall,Asian and Pacific Islander,39.760051,-89.66652
+14089,IL,St. Clair County,145.1,Overall,Asian and Pacific Islander,38.473243,-89.931465
+14079,IL,Peoria County,110.4,Overall,Asian and Pacific Islander,40.792172,-89.766494
+14078,IL,Ogle County,185.3,Overall,Asian and Pacific Islander,42.042479,-89.324744
+14074,IL,Monroe County,152.3,Overall,Asian and Pacific Islander,38.2799,-90.178108
+14064,IL,McLean County,140.3,Overall,Asian and Pacific Islander,40.493683,-88.853247
+14029,IL,DuPage County,156.0,Overall,Asian and Pacific Islander,41.856108,-88.09317
+14056,IL,Lake County,116.8,Overall,Asian and Pacific Islander,42.321603,-88.003249
+14063,IL,McHenry County,188.9,Overall,Asian and Pacific Islander,42.323299,-88.455063
+14017,IL,Champaign County,150.8,Overall,Asian and Pacific Islander,40.143076,-88.203154
+14023,IL,Cook County,175.7,Overall,Asian and Pacific Islander,41.844947,-87.822369
+14026,IL,DeKalb County,185.0,Overall,Asian and Pacific Islander,41.894898,-88.775575
+14011,IL,Boone County,152.7,Overall,Asian and Pacific Islander,42.321983,-88.826647
+14039,IL,Grundy County,116.4,Overall,Asian and Pacific Islander,41.288225,-88.425848
+14052,IL,Kane County,169.6,Overall,Asian and Pacific Islander,41.93949,-88.43416
+14053,IL,Kankakee County,118.3,Overall,Asian and Pacific Islander,41.142166,-87.864906
+14054,IL,Kendall County,148.5,Overall,Asian and Pacific Islander,41.589352,-88.434876
+16287,IN,Indiana,144.0,Overall,Asian and Pacific Islander,39.9128,-86.2757
+15824,IN,Tippecanoe County,27.7,Overall,Asian and Pacific Islander,40.401193,-86.899574
+15818,IN,Shelby County,183.6,Overall,Asian and Pacific Islander,39.519916,-85.805745
+15816,IN,St. Joseph County,73.7,Overall,Asian and Pacific Islander,41.622788,-86.295204
+15800,IN,Morgan County,160.1,Overall,Asian and Pacific Islander,39.479176,-86.455242
+15798,IN,Monroe County,30.9,Overall,Asian and Pacific Islander,39.159631,-86.53911
+15794,IN,Marion County,166.8,Overall,Asian and Pacific Islander,39.784246,-86.148099
+15793,IN,Madison County,131.4,Overall,Asian and Pacific Islander,40.176288,-85.722634
+15790,IN,Lake County,169.9,Overall,Asian and Pacific Islander,41.42368,-87.391844
+15786,IN,Johnson County,180.5,Overall,Asian and Pacific Islander,39.484711,-86.112089
+15776,IN,Harrison County,153.0,Overall,Asian and Pacific Islander,38.19399,-86.118653
+15775,IN,Hancock County,162.3,Overall,Asian and Pacific Islander,39.82734,-85.779131
+15774,IN,Hamilton County,163.4,Overall,Asian and Pacific Islander,40.079948,-86.058003
+15767,IN,Floyd County,140.9,Overall,Asian and Pacific Islander,38.315314,-85.911992
+15760,IN,Dearborn County,161.2,Overall,Asian and Pacific Islander,39.147793,-84.974918
+15757,IN,Clinton County,107.1,Overall,Asian and Pacific Islander,40.309754,-86.477257
+15755,IN,Clark County,138.1,Overall,Asian and Pacific Islander,38.474755,-85.711498
+15751,IN,Boone County,163.5,Overall,Asian and Pacific Islander,40.059615,-86.478174
+15747,IN,Allen County,205.9,Overall,Asian and Pacific Islander,41.103795,-85.064416
+15777,IN,Hendricks County,184.0,Overall,Asian and Pacific Islander,39.778124,-86.518799
+17674,KS,Sumner County,169.0,Overall,Asian and Pacific Islander,37.233461,-97.471752
+18221,KS,Kansas,135.0,Overall,Asian and Pacific Islander,38.4828,-98.384
+17683,KS,Wyandotte County,113.9,Overall,Asian and Pacific Islander,39.112948,-94.768504
+17665,KS,Sedgwick County,173.0,Overall,Asian and Pacific Islander,37.68108,-97.454253
+17656,KS,Reno County,173.5,Overall,Asian and Pacific Islander,37.94562,-98.082241
+17639,KS,Miami County,44.9,Overall,Asian and Pacific Islander,38.56415,-94.838151
+17624,KS,Johnson County,64.6,Overall,Asian and Pacific Islander,38.881482,-94.822354
+17626,KS,Kingman County,177.3,Overall,Asian and Pacific Islander,37.552751,-98.12908
+17618,KS,Harvey County,174.3,Overall,Asian and Pacific Islander,38.039234,-97.425008
+17601,KS,Douglas County,192.1,Overall,Asian and Pacific Islander,38.880189,-95.289901
+17596,KS,Cowley County,169.6,Overall,Asian and Pacific Islander,37.23756,-96.829422
+17586,KS,Butler County,169.0,Overall,Asian and Pacific Islander,37.77929,-96.831677
+17630,KS,Leavenworth County,88.5,Overall,Asian and Pacific Islander,39.195524,-95.031672
+20332,KY,Kentucky,151.1,Overall,Asian and Pacific Islander,37.5266,-85.29
+19776,KY,Spencer County,150.9,Overall,Asian and Pacific Islander,38.037051,-85.334321
+19774,KY,Shelby County,140.0,Overall,Asian and Pacific Islander,38.218788,-85.20452
+19761,KY,Oldham County,140.7,Overall,Asian and Pacific Islander,38.402889,-85.454632
+19727,KY,Kenton County,220.1,Overall,Asian and Pacific Islander,38.933675,-84.535643
+19702,KY,Fayette County,67.6,Overall,Asian and Pacific Islander,38.037997,-84.468142
+19715,KY,Hardin County,157.4,Overall,Asian and Pacific Islander,37.698684,-85.972266
+19687,KY,Campbell County,204.2,Overall,Asian and Pacific Islander,38.944792,-84.383106
+19683,KY,Bullitt County,151.6,Overall,Asian and Pacific Islander,37.972421,-85.700078
+19676,KY,Boone County,160.1,Overall,Asian and Pacific Islander,38.969642,-84.726791
+19724,KY,Jefferson County,140.4,Overall,Asian and Pacific Islander,38.189856,-85.668697
+21206,LA,Plaquemines Parish,173.2,Overall,Asian and Pacific Islander,29.447033,-89.604764
+21220,LA,St. Tammany Parish,175.9,Overall,Asian and Pacific Islander,30.458088,-89.943805
+21218,LA,St. Martin Parish,272.8,Overall,Asian and Pacific Islander,30.134896,-91.601884
+21213,LA,St. Charles Parish,181.4,Overall,Asian and Pacific Islander,29.889322,-90.346523
+21212,LA,St. Bernard Parish,198.1,Overall,Asian and Pacific Islander,29.876118,-89.66093
+21204,LA,Orleans Parish,173.2,Overall,Asian and Pacific Islander,30.036876,-89.912529
+21565,LA,Louisiana,176.2,Overall,Asian and Pacific Islander,31.0964,-92.0302
+21196,LA,Lafayette Parish,287.9,Overall,Asian and Pacific Islander,30.216885,-92.053053
+21194,LA,Jefferson Parish,170.4,Overall,Asian and Pacific Islander,29.779458,-90.115482
+21191,LA,Iberia Parish,265.9,Overall,Asian and Pacific Islander,29.904679,-91.722484
+21185,LA,East Baton Rouge Parish,93.1,Overall,Asian and Pacific Islander,30.545877,-91.090991
+21177,LA,Caddo Parish,236.1,Overall,Asian and Pacific Islander,32.586066,-93.880587
+21197,LA,Lafourche Parish,189.4,Overall,Asian and Pacific Islander,29.582706,-90.429927
+21834,MA,Massachusetts,117.3,Overall,Asian and Pacific Islander,42.2573,-71.8024
+21752,MA,Worcester County,95.2,Overall,Asian and Pacific Islander,42.347911,-71.907684
+21751,MA,Suffolk County,113.6,Overall,Asian and Pacific Islander,42.333204,-71.072183
+21750,MA,Plymouth County,127.5,Overall,Asian and Pacific Islander,41.947911,-70.806362
+21749,MA,Norfolk County,110.3,Overall,Asian and Pacific Islander,42.155308,-71.217711
+21747,MA,Middlesex County,111.2,Overall,Asian and Pacific Islander,42.479929,-71.393454
+21746,MA,Hampshire County,100.9,Overall,Asian and Pacific Islander,42.339412,-72.663762
+21744,MA,Franklin County,92.0,Overall,Asian and Pacific Islander,42.581073,-72.585851
+21743,MA,Essex County,110.3,Overall,Asian and Pacific Islander,42.66825,-70.947877
+21741,MA,Bristol County,191.3,Overall,Asian and Pacific Islander,41.801087,-71.120082
+21740,MA,Berkshire County,113.0,Overall,Asian and Pacific Islander,42.370735,-73.20077
+21745,MA,Hampden County,139.9,Overall,Asian and Pacific Islander,42.132769,-72.629706
+22257,MD,Maryland,137.7,Overall,Asian and Pacific Islander,39.0648,-76.82
+22152,MD,Baltimore City,157.7,Overall,Asian and Pacific Islander,39.304605,-76.616905
+22149,MD,Washington County,119.6,Overall,Asian and Pacific Islander,39.602985,-77.814516
+22146,MD,St. Mary's County,191.7,Overall,Asian and Pacific Islander,38.303997,-76.605644
+22143,MD,Montgomery County,115.0,Overall,Asian and Pacific Islander,39.135127,-77.202125
+22142,MD,Kent County,155.8,Overall,Asian and Pacific Islander,39.261229,-76.014793
+22141,MD,Howard County,128.4,Overall,Asian and Pacific Islander,39.248357,-76.933934
+22144,MD,Prince George's County,180.7,Overall,Asian and Pacific Islander,38.828408,-76.849825
+22138,MD,Frederick County,133.8,Overall,Asian and Pacific Islander,39.471917,-77.399264
+22136,MD,Charles County,159.7,Overall,Asian and Pacific Islander,38.516862,-76.990585
+22135,MD,Cecil County,193.0,Overall,Asian and Pacific Islander,39.584497,-75.941757
+22134,MD,Carroll County,111.0,Overall,Asian and Pacific Islander,39.557524,-77.024404
+22132,MD,Calvert County,195.8,Overall,Asian and Pacific Islander,38.543225,-76.567004
+22131,MD,Baltimore County,141.0,Overall,Asian and Pacific Islander,39.465229,-76.647658
+22130,MD,Anne Arundel County,182.3,Overall,Asian and Pacific Islander,38.997548,-76.610413
+22140,MD,Harford County,180.0,Overall,Asian and Pacific Islander,39.567549,-76.323467
+22479,ME,Cumberland County,97.4,Overall,Asian and Pacific Islander,43.853264,-70.407915
+23651,MI,Montcalm County,502.3,Overall,Asian and Pacific Islander,43.316508,-85.154339
+23653,MI,Muskegon County,31.2,Overall,Asian and Pacific Islander,43.293067,-86.148358
+23654,MI,Newaygo County,666.4,Overall,Asian and Pacific Islander,43.557058,-85.801617
+23655,MI,Oakland County,148.2,Overall,Asian and Pacific Islander,42.663821,-83.387352
+23662,MI,Ottawa County,95.6,Overall,Asian and Pacific Islander,42.963376,-86.009062
+23674,MI,Wayne County,162.2,Overall,Asian and Pacific Islander,42.289576,-83.290093
+23670,MI,Shiawassee County,197.8,Overall,Asian and Pacific Islander,42.956903,-84.149268
+23673,MI,Washtenaw County,109.1,Overall,Asian and Pacific Islander,42.257837,-83.843794
+24105,MI,Michigan,148.4,Overall,Asian and Pacific Islander,44.3371,-85.4387
+23650,MI,Monroe County,177.8,Overall,Asian and Pacific Islander,41.92557,-83.536901
+23666,MI,St. Clair County,154.7,Overall,Asian and Pacific Islander,42.954748,-82.684832
+23642,MI,Macomb County,155.3,Overall,Asian and Pacific Islander,42.701,-82.93232
+23617,MI,Genesee County,149.1,Overall,Asian and Pacific Islander,43.025733,-83.70855
+23638,MI,Lenawee County,165.6,Overall,Asian and Pacific Islander,41.895635,-84.065166
+23595,MI,Allegan County,95.0,Overall,Asian and Pacific Islander,42.59471,-85.900995
+23600,MI,Barry County,98.0,Overall,Asian and Pacific Islander,42.598169,-85.311561
+23639,MI,Livingston County,158.8,Overall,Asian and Pacific Islander,42.606835,-83.914244
+23615,MI,Eaton County,204.7,Overall,Asian and Pacific Islander,42.599088,-84.84327
+23625,MI,Ingham County,217.4,Overall,Asian and Pacific Islander,42.601516,-84.378101
+23611,MI,Clinton County,204.7,Overall,Asian and Pacific Islander,42.949817,-84.604386
+23630,MI,Jackson County,123.4,Overall,Asian and Pacific Islander,42.252219,-84.427319
+23631,MI,Kalamazoo County,71.8,Overall,Asian and Pacific Islander,42.249648,-85.533031
+23633,MI,Kent County,109.4,Overall,Asian and Pacific Islander,43.034618,-85.553771
+23636,MI,Lapeer County,152.1,Overall,Asian and Pacific Islander,43.093343,-83.219199
+23626,MI,Ionia County,105.1,Overall,Asian and Pacific Islander,42.950417,-85.07584
+25224,MN,Scott County,161.0,Overall,Asian and Pacific Islander,44.651138,-93.539207
+25690,MN,Minnesota,130.2,Overall,Asian and Pacific Islander,46.3159,-94.3068
+25240,MN,Wright County,126.3,Overall,Asian and Pacific Islander,45.177993,-93.963897
+25239,MN,Winona County,194.8,Overall,Asian and Pacific Islander,43.986193,-91.78251
+25236,MN,Washington County,163.3,Overall,Asian and Pacific Islander,45.041919,-92.88248
+25225,MN,Sherburne County,123.3,Overall,Asian and Pacific Islander,45.44811,-93.776303
+25220,MN,Rice County,166.7,Overall,Asian and Pacific Islander,44.356061,-93.299431
+25156,MN,Anoka County,128.1,Overall,Asian and Pacific Islander,45.275102,-93.24911
+25209,MN,Olmsted County,162.2,Overall,Asian and Pacific Islander,44.001276,-92.405536
+25181,MN,Hennepin County,126.1,Overall,Asian and Pacific Islander,45.007122,-93.477809
+25179,MN,Goodhue County,164.4,Overall,Asian and Pacific Islander,44.410631,-92.72419
+25173,MN,Dakota County,152.1,Overall,Asian and Pacific Islander,44.675037,-93.067451
+25167,MN,Chisago County,143.8,Overall,Asian and Pacific Islander,45.503275,-92.903582
+25164,MN,Carver County,142.8,Overall,Asian and Pacific Islander,44.824409,-93.805947
+25216,MN,Ramsey County,132.7,Overall,Asian and Pacific Islander,45.022166,-93.098935
+27776,MO,Missouri,168.5,Overall,Asian and Pacific Islander,38.3641,-92.4798
+27192,MO,St. Louis City,150.2,Overall,Asian and Pacific Islander,38.651396,-90.237658
+27173,MO,St. Louis County,150.2,Overall,Asian and Pacific Islander,38.640359,-90.45166
+27169,MO,St. Charles County,154.6,Overall,Asian and Pacific Islander,38.782818,-90.679426
+27137,MO,McDonald County,356.7,Overall,Asian and Pacific Islander,36.624487,-94.352689
+27132,MO,Lawrence County,214.1,Overall,Asian and Pacific Islander,37.105357,-93.841111
+27131,MO,Lafayette County,206.9,Overall,Asian and Pacific Islander,39.065427,-93.79324
+27128,MO,Johnson County,208.1,Overall,Asian and Pacific Islander,38.742992,-93.811285
+27166,MO,Ray County,173.9,Overall,Asian and Pacific Islander,39.353564,-93.997866
+27125,MO,Jackson County,202.7,Overall,Asian and Pacific Islander,39.00511,-94.352337
+27116,MO,Greene County,175.7,Overall,Asian and Pacific Islander,37.256159,-93.348973
+27113,MO,Franklin County,163.9,Overall,Asian and Pacific Islander,38.412142,-91.081925
+27101,MO,Clay County,108.1,Overall,Asian and Pacific Islander,39.309107,-94.428912
+27096,MO,Cass County,133.7,Overall,Asian and Pacific Islander,38.640451,-94.35851
+27087,MO,Boone County,200.9,Overall,Asian and Pacific Islander,38.991797,-92.314224
+27082,MO,Barry County,374.8,Overall,Asian and Pacific Islander,36.703984,-93.836923
+27127,MO,Jefferson County,159.7,Overall,Asian and Pacific Islander,38.264089,-90.539812
+29092,MS,Mississippi,204.6,Overall,Asian and Pacific Islander,32.7577,-89.6646
+28867,MS,Stone County,255.5,Overall,Asian and Pacific Islander,30.795136,-89.105606
+28856,MS,Pearl River County,193.6,Overall,Asian and Pacific Islander,30.775373,-89.582603
+28848,MS,Marshall County,136.2,Overall,Asian and Pacific Islander,34.769651,-89.496794
+28831,MS,Jackson County,336.5,Overall,Asian and Pacific Islander,30.550243,-88.632981
+28824,MS,Hancock County,193.6,Overall,Asian and Pacific Islander,30.423539,-89.482479
+28818,MS,DeSoto County,102.9,Overall,Asian and Pacific Islander,34.880842,-89.989384
+28825,MS,Harrison County,261.4,Overall,Asian and Pacific Islander,30.516744,-89.108234
+31609,NC,Randolph County,244.4,Overall,Asian and Pacific Islander,35.706575,-79.802905
+31584,NC,Johnston County,108.4,Overall,Asian and Pacific Islander,35.514295,-78.365444
+31593,NC,Mecklenburg County,150.7,Overall,Asian and Pacific Islander,35.245446,-80.829707
+31596,NC,Moore County,51.5,Overall,Asian and Pacific Islander,35.306734,-79.476806
+31597,NC,Nash County,109.6,Overall,Asian and Pacific Islander,35.96325,-77.981695
+31600,NC,Onslow County,59.1,Overall,Asian and Pacific Islander,34.740369,-77.442474
+31608,NC,Polk County,140.7,Overall,Asian and Pacific Islander,35.275619,-82.170022
+31611,NC,Robeson County,314.4,Overall,Asian and Pacific Islander,34.638746,-79.09942
+31582,NC,Iredell County,134.9,Overall,Asian and Pacific Islander,35.80236,-80.87071
+31614,NC,Rutherford County,151.9,Overall,Asian and Pacific Islander,35.399442,-81.917292
+31615,NC,Sampson County,126.0,Overall,Asian and Pacific Islander,34.986249,-78.371475
+31617,NC,Stanly County,632.4,Overall,Asian and Pacific Islander,35.312563,-80.248868
+31618,NC,Stokes County,147.0,Overall,Asian and Pacific Islander,36.400112,-80.234031
+31621,NC,Transylvania County,146.9,Overall,Asian and Pacific Islander,35.202363,-82.792783
+31623,NC,Union County,173.3,Overall,Asian and Pacific Islander,34.986861,-80.531078
+31625,NC,Wake County,112.1,Overall,Asian and Pacific Islander,35.78375,-78.652872
+32142,NC,North Carolina,131.9,Overall,Asian and Pacific Islander,35.5475,-79.4019
+31612,NC,Rockingham County,139.1,Overall,Asian and Pacific Islander,36.396136,-79.769302
+31580,NC,Hoke County,421.6,Overall,Asian and Pacific Islander,35.011746,-79.236099
+31601,NC,Orange County,91.4,Overall,Asian and Pacific Islander,36.056708,-79.12264
+31574,NC,Guilford County,135.0,Overall,Asian and Pacific Islander,36.072845,-79.781989
+31533,NC,Alamance County,108.1,Overall,Asian and Pacific Islander,36.037343,-79.398844
+31541,NC,Bladen County,161.4,Overall,Asian and Pacific Islander,34.608631,-78.557235
+31543,NC,Buncombe County,169.9,Overall,Asian and Pacific Islander,35.607613,-82.526366
+31544,NC,Burke County,167.6,Overall,Asian and Pacific Islander,35.746243,-81.700515
+31545,NC,Cabarrus County,135.2,Overall,Asian and Pacific Islander,35.3855,-80.548633
+31551,NC,Catawba County,214.8,Overall,Asian and Pacific Islander,35.658972,-81.213566
+31552,NC,Chatham County,89.7,Overall,Asian and Pacific Islander,35.697142,-79.254182
+31556,NC,Cleveland County,195.0,Overall,Asian and Pacific Islander,35.333441,-81.54967
+31559,NC,Cumberland County,143.1,Overall,Asian and Pacific Islander,35.044653,-78.8294
+31562,NC,Davidson County,240.1,Overall,Asian and Pacific Islander,35.789628,-80.20883
+31563,NC,Davie County,177.1,Overall,Asian and Pacific Islander,35.925235,-80.542652
+31576,NC,Harnett County,111.4,Overall,Asian and Pacific Islander,35.368234,-78.868802
+31565,NC,Durham County,91.9,Overall,Asian and Pacific Islander,36.029183,-78.87741
+31567,NC,Forsyth County,156.0,Overall,Asian and Pacific Islander,36.126047,-80.249477
+31568,NC,Franklin County,96.3,Overall,Asian and Pacific Islander,36.075748,-78.283888
+31569,NC,Gaston County,111.2,Overall,Asian and Pacific Islander,35.292548,-81.177848
+31572,NC,Granville County,260.3,Overall,Asian and Pacific Islander,36.300753,-78.655485
+31560,NC,Currituck County,105.0,Overall,Asian and Pacific Islander,36.407817,-76.027453
+34810,NE,Nebraska,110.9,Overall,Asian and Pacific Islander,41.5228,-99.8085
+34313,NE,Saunders County,106.5,Overall,Asian and Pacific Islander,41.227314,-96.635199
+34263,NE,Douglas County,111.2,Overall,Asian and Pacific Islander,41.296387,-96.160951
+34290,NE,Lancaster County,100.6,Overall,Asian and Pacific Islander,40.784954,-96.680075
+34312,NE,Sarpy County,111.9,Overall,Asian and Pacific Islander,41.115619,-96.107903
+34934,NH,Cheshire County,86.0,Overall,Asian and Pacific Islander,42.919174,-72.249172
+34937,NH,Hillsborough County,101.8,Overall,Asian and Pacific Islander,42.913056,-71.713622
+34938,NH,Merrimack County,133.0,Overall,Asian and Pacific Islander,43.298593,-71.683702
+34939,NH,Rockingham County,150.1,Overall,Asian and Pacific Islander,42.983477,-71.136003
+34940,NH,Strafford County,171.2,Overall,Asian and Pacific Islander,43.297874,-71.031362
+35004,NH,New Hampshire,113.9,Overall,Asian and Pacific Islander,43.6834,-71.5794
+35275,NJ,Morris County,119.5,Overall,Asian and Pacific Islander,40.853382,-74.545925
+35276,NJ,Ocean County,176.7,Overall,Asian and Pacific Islander,39.909169,-74.307129
+35277,NJ,Passaic County,109.8,Overall,Asian and Pacific Islander,41.027148,-74.302864
+35279,NJ,Somerset County,142.7,Overall,Asian and Pacific Islander,40.556563,-74.617995
+35401,NJ,New Jersey,147.5,Overall,Asian and Pacific Islander,40.1987,-74.6768
+35281,NJ,Union County,152.1,Overall,Asian and Pacific Islander,40.650721,-74.310458
+35282,NJ,Warren County,120.9,Overall,Asian and Pacific Islander,40.848265,-75.000882
+35274,NJ,Monmouth County,158.2,Overall,Asian and Pacific Islander,40.250381,-74.233756
+35280,NJ,Sussex County,103.6,Overall,Asian and Pacific Islander,41.131202,-74.692887
+35273,NJ,Middlesex County,156.5,Overall,Asian and Pacific Islander,40.429141,-74.415013
+35278,NJ,Salem County,141.0,Overall,Asian and Pacific Islander,39.583694,-75.351583
+35271,NJ,Hunterdon County,127.6,Overall,Asian and Pacific Islander,40.560655,-74.913855
+35262,NJ,Atlantic County,180.7,Overall,Asian and Pacific Islander,39.482278,-74.694672
+35263,NJ,Bergen County,115.2,Overall,Asian and Pacific Islander,40.953852,-74.071319
+35264,NJ,Burlington County,183.8,Overall,Asian and Pacific Islander,39.871845,-74.672363
+35265,NJ,Camden County,185.9,Overall,Asian and Pacific Islander,39.798186,-74.967052
+35266,NJ,Cape May County,177.0,Overall,Asian and Pacific Islander,39.162729,-74.809249
+35272,NJ,Mercer County,131.7,Overall,Asian and Pacific Islander,40.277668,-74.701176
+35267,NJ,Cumberland County,155.8,Overall,Asian and Pacific Islander,39.366521,-75.11546
+35268,NJ,Essex County,146.0,Overall,Asian and Pacific Islander,40.778806,-74.246992
+35269,NJ,Gloucester County,158.9,Overall,Asian and Pacific Islander,39.714243,-75.149021
+35270,NJ,Hudson County,199.2,Overall,Asian and Pacific Islander,40.740293,-74.062027
+36012,NM,New Mexico,141.8,Overall,Asian and Pacific Islander,34.4228,-106.102
+35834,NM,Valencia County,156.0,Overall,Asian and Pacific Islander,34.724045,-106.808201
+35832,NM,Torrance County,146.9,Overall,Asian and Pacific Islander,34.64667,-105.84075
+35825,NM,Sandoval County,142.2,Overall,Asian and Pacific Islander,35.694759,-106.857838
+35828,NM,Santa Fe County,144.3,Overall,Asian and Pacific Islander,35.513208,-105.969131
+35809,NM,Dona Ana County,134.9,Overall,Asian and Pacific Islander,32.361279,-106.824089
+35802,NM,Bernalillo County,147.8,Overall,Asian and Pacific Islander,35.057583,-106.659158
+35821,NM,Otero County,144.7,Overall,Asian and Pacific Islander,32.612606,-105.734078
+35805,NM,Cibola County,156.5,Overall,Asian and Pacific Islander,34.920168,-107.989224
+36337,NV,Nevada,220.7,Overall,Asian and Pacific Islander,39.352,-116.65
+36233,NV,Nye County,221.6,Overall,Asian and Pacific Islander,38.040213,-116.466844
+36238,NV,Carson City,203.5,Overall,Asian and Pacific Islander,39.149606,-119.741553
+36236,NV,Washoe County,180.6,Overall,Asian and Pacific Islander,40.660034,-119.655927
+36235,NV,Storey County,206.7,Overall,Asian and Pacific Islander,39.453456,-119.512743
+36234,NV,Pershing County,207.0,Overall,Asian and Pacific Islander,40.437574,-118.391099
+36231,NV,Lyon County,194.9,Overall,Asian and Pacific Islander,39.019426,-119.178491
+36228,NV,Humboldt County,208.9,Overall,Asian and Pacific Islander,41.40397,-118.100835
+36224,NV,Douglas County,237.2,Overall,Asian and Pacific Islander,38.905568,-119.608598
+36223,NV,Clark County,217.1,Overall,Asian and Pacific Islander,36.211017,-115.00802
+36222,NV,Churchill County,204.1,Overall,Asian and Pacific Islander,39.579931,-118.322155
+36230,NV,Lincoln County,222.8,Overall,Asian and Pacific Islander,37.64421,-114.867803
+37122,NY,Orange County,134.9,Overall,Asian and Pacific Islander,41.39936,-74.311665
+37123,NY,Orleans County,196.2,Overall,Asian and Pacific Islander,43.249788,-78.229049
+37124,NY,Oswego County,148.9,Overall,Asian and Pacific Islander,43.430774,-76.140428
+37126,NY,Putnam County,125.2,Overall,Asian and Pacific Islander,41.424224,-73.754852
+37127,NY,Queens County,212.5,Overall,Asian and Pacific Islander,40.714613,-73.81881
+37128,NY,Rensselaer County,154.9,Overall,Asian and Pacific Islander,42.706929,-73.509035
+37129,NY,Richmond County,217.5,Overall,Asian and Pacific Islander,40.580523,-74.147253
+37130,NY,Rockland County,119.0,Overall,Asian and Pacific Islander,41.152819,-74.032948
+37132,NY,Saratoga County,181.3,Overall,Asian and Pacific Islander,43.106459,-73.867514
+37138,NY,Suffolk County,211.8,Overall,Asian and Pacific Islander,40.871938,-72.839642
+37139,NY,Sullivan County,173.1,Overall,Asian and Pacific Islander,41.718479,-74.770635
+37141,NY,Tompkins County,94.8,Overall,Asian and Pacific Islander,42.453967,-76.47389
+37142,NY,Ulster County,153.8,Overall,Asian and Pacific Islander,41.888699,-74.262634
+37145,NY,Wayne County,177.4,Overall,Asian and Pacific Islander,43.156895,-77.025381
+37146,NY,Westchester County,111.1,Overall,Asian and Pacific Islander,41.166326,-73.756643
+37147,NY,Wyoming County,161.4,Overall,Asian and Pacific Islander,42.708646,-78.219189
+37473,NY,New York,196.4,Overall,Asian and Pacific Islander,42.9465,-75.512
+37121,NY,Ontario County,180.7,Overall,Asian and Pacific Islander,42.855286,-77.299308
+37134,NY,Schoharie County,194.8,Overall,Asian and Pacific Islander,42.588627,-74.440088
+37120,NY,Onondaga County,149.8,Overall,Asian and Pacific Islander,43.012001,-76.190642
+37133,NY,Schenectady County,193.4,Overall,Asian and Pacific Islander,42.81625,-74.059796
+37118,NY,Niagara County,199.6,Overall,Asian and Pacific Islander,43.197322,-78.744127
+37087,NY,Albany County,170.5,Overall,Asian and Pacific Islander,42.599103,-73.970816
+37089,NY,Bronx County,206.7,Overall,Asian and Pacific Islander,40.864977,-73.858013
+37091,NY,Cattaraugus County,172.8,Overall,Asian and Pacific Islander,42.252395,-78.675327
+37092,NY,Cayuga County,128.8,Overall,Asian and Pacific Islander,42.918974,-76.553464
+37093,NY,Chautauqua County,363.7,Overall,Asian and Pacific Islander,42.232498,-79.365075
+37097,NY,Columbia County,141.7,Overall,Asian and Pacific Islander,42.246954,-73.630121
+37098,NY,Cortland County,117.1,Overall,Asian and Pacific Islander,42.598351,-76.07037
+37100,NY,Dutchess County,137.8,Overall,Asian and Pacific Islander,41.764043,-73.742217
+37119,NY,Oneida County,162.4,Overall,Asian and Pacific Islander,43.244075,-75.434206
+37090,NY,Broome County,77.1,Overall,Asian and Pacific Islander,42.160002,-75.819405
+37105,NY,Genesee County,179.3,Overall,Asian and Pacific Islander,43.002158,-78.193571
+37101,NY,Erie County,170.2,Overall,Asian and Pacific Islander,42.757369,-78.726059
+37117,NY,New York County,182.7,Overall,Asian and Pacific Islander,40.805299,-73.948191
+37115,NY,Montgomery County,210.4,Overall,Asian and Pacific Islander,42.901234,-74.439061
+37114,NY,Monroe County,174.8,Overall,Asian and Pacific Islander,43.146649,-77.691631
+37116,NY,Nassau County,213.9,Overall,Asian and Pacific Islander,40.75237,-73.59394
+37112,NY,Livingston County,170.8,Overall,Asian and Pacific Islander,42.73145,-77.774962
+37110,NY,Kings County,193.5,Overall,Asian and Pacific Islander,40.649553,-73.945717
+37106,NY,Greene County,156.5,Overall,Asian and Pacific Islander,42.274896,-74.121436
+37113,NY,Madison County,160.8,Overall,Asian and Pacific Islander,42.915558,-75.666927
+38587,OH,Medina County,161.7,Overall,Asian and Pacific Islander,41.116072,-81.893266
+38603,OH,Preble County,162.8,Overall,Asian and Pacific Islander,39.740533,-84.643387
+38590,OH,Miami County,215.6,Overall,Asian and Pacific Islander,40.047853,-84.222815
+38592,OH,Montgomery County,179.7,Overall,Asian and Pacific Islander,39.752791,-84.286552
+38600,OH,Pickaway County,171.3,Overall,Asian and Pacific Islander,39.633151,-83.022264
+38602,OH,Portage County,208.0,Overall,Asian and Pacific Islander,41.16481,-81.19136
+38611,OH,Stark County,152.7,Overall,Asian and Pacific Islander,40.811994,-81.355933
+38618,OH,Warren County,116.3,Overall,Asian and Pacific Islander,39.425185,-84.164241
+38613,OH,Trumbull County,201.7,Overall,Asian and Pacific Islander,41.313219,-80.762687
+38615,OH,Union County,151.8,Overall,Asian and Pacific Islander,40.297494,-83.368
+38616,OH,Van Wert County,257.3,Overall,Asian and Pacific Islander,40.85374,-84.574268
+38620,OH,Wayne County,177.2,Overall,Asian and Pacific Islander,40.829189,-81.882258
+39010,OH,Ohio,155.9,Overall,Asian and Pacific Islander,40.2882,-82.7866
+38585,OH,Mahoning County,160.0,Overall,Asian and Pacific Islander,41.011136,-80.774977
+38612,OH,Summit County,154.8,Overall,Asian and Pacific Islander,41.12406,-81.521628
+38584,OH,Madison County,154.4,Overall,Asian and Pacific Islander,39.889484,-83.40139
+38564,OH,Greene County,113.4,Overall,Asian and Pacific Islander,39.690989,-83.887151
+38582,OH,Lorain County,138.7,Overall,Asian and Pacific Islander,41.296642,-82.146581
+38538,OH,Ashtabula County,263.4,Overall,Asian and Pacific Islander,41.708445,-80.749937
+38543,OH,Butler County,150.8,Overall,Asian and Pacific Islander,39.437757,-84.569068
+38583,OH,Lucas County,159.2,Overall,Asian and Pacific Islander,41.618632,-83.649038
+38547,OH,Clermont County,139.0,Overall,Asian and Pacific Islander,39.042129,-84.148752
+38553,OH,Cuyahoga County,143.0,Overall,Asian and Pacific Islander,41.424287,-81.651398
+38554,OH,Darke County,205.9,Overall,Asian and Pacific Islander,40.132747,-84.610763
+38556,OH,Delaware County,149.9,Overall,Asian and Pacific Islander,40.27916,-83.002617
+38546,OH,Clark County,200.2,Overall,Asian and Pacific Islander,39.91287,-83.783526
+38560,OH,Franklin County,156.0,Overall,Asian and Pacific Islander,39.96496,-83.009567
+38563,OH,Geauga County,142.9,Overall,Asian and Pacific Islander,41.49648,-81.171468
+38566,OH,Hamilton County,193.7,Overall,Asian and Pacific Islander,39.19404,-84.538642
+38578,OH,Lake County,139.3,Overall,Asian and Pacific Islander,41.693101,-81.233517
+38580,OH,Licking County,153.7,Overall,Asian and Pacific Islander,40.086685,-82.478495
+38558,OH,Fairfield County,158.9,Overall,Asian and Pacific Islander,39.743864,-82.629437
+40060,OK,Osage County,249.2,Overall,Asian and Pacific Islander,36.633644,-96.403745
+40062,OK,Pawnee County,263.3,Overall,Asian and Pacific Islander,36.320446,-96.6966
+40066,OK,Pottawatomie County,211.1,Overall,Asian and Pacific Islander,35.21083,-96.946751
+40476,OK,Oklahoma,220.9,Overall,Asian and Pacific Islander,35.5848,-97.5098
+40075,OK,Tulsa County,276.8,Overall,Asian and Pacific Islander,36.128351,-95.943357
+40074,OK,Tillman County,195.8,Overall,Asian and Pacific Islander,34.369967,-98.918871
+40076,OK,Wagoner County,305.8,Overall,Asian and Pacific Islander,35.966658,-95.523242
+40077,OK,Washington County,263.8,Overall,Asian and Pacific Islander,36.72013,-95.910305
+40059,OK,Okmulgee County,276.0,Overall,Asian and Pacific Islander,35.6526,-95.959083
+40069,OK,Rogers County,295.4,Overall,Asian and Pacific Islander,36.378361,-95.606173
+40058,OK,Oklahoma County,208.4,Overall,Asian and Pacific Islander,35.552715,-97.405796
+40024,OK,Delaware County,339.4,Overall,Asian and Pacific Islander,36.414166,-94.804232
+40045,OK,Logan County,150.5,Overall,Asian and Pacific Islander,35.921591,-97.441304
+40044,OK,Lincoln County,205.6,Overall,Asian and Pacific Islander,35.70817,-96.878312
+40040,OK,Kingfisher County,192.3,Overall,Asian and Pacific Islander,35.949821,-97.93844
+40029,OK,Grady County,206.8,Overall,Asian and Pacific Islander,35.018815,-97.881802
+40022,OK,Creek County,266.9,Overall,Asian and Pacific Islander,35.908092,-96.368841
+40019,OK,Comanche County,226.8,Overall,Asian and Pacific Islander,34.665186,-98.471472
+40017,OK,Cleveland County,218.0,Overall,Asian and Pacific Islander,35.211201,-97.326191
+40012,OK,Canadian County,119.9,Overall,Asian and Pacific Islander,35.544441,-97.980134
+40004,OK,Adair County,363.3,Overall,Asian and Pacific Islander,35.89329,-94.654915
+40047,OK,McClain County,138.6,Overall,Asian and Pacific Islander,35.015473,-97.44595
+40934,OR,Lincoln County,559.5,Overall,Asian and Pacific Islander,44.637223,-123.870053
+40936,OR,Malheur County,166.4,Overall,Asian and Pacific Islander,43.188513,-117.618299
+40937,OR,Marion County,152.8,Overall,Asian and Pacific Islander,44.899718,-122.589607
+40939,OR,Multnomah County,141.4,Overall,Asian and Pacific Islander,45.540684,-122.410819
+40950,OR,Yamhill County,130.3,Overall,Asian and Pacific Islander,45.225927,-123.309159
+40942,OR,Tillamook County,137.3,Overall,Asian and Pacific Islander,45.454795,-123.710488
+40946,OR,Wasco County,134.8,Overall,Asian and Pacific Islander,45.156518,-121.167118
+40947,OR,Washington County,140.1,Overall,Asian and Pacific Islander,45.552547,-123.098517
+40933,OR,Lane County,114.0,Overall,Asian and Pacific Islander,43.931673,-122.850805
+41142,OR,Oregon,146.4,Overall,Asian and Pacific Islander,43.9313,-120.554
+40940,OR,Polk County,63.8,Overall,Asian and Pacific Islander,44.896337,-123.412035
+40932,OR,Lake County,205.7,Overall,Asian and Pacific Islander,42.785847,-120.383313
+40935,OR,Linn County,177.3,Overall,Asian and Pacific Islander,44.481339,-122.530157
+40930,OR,Josephine County,177.0,Overall,Asian and Pacific Islander,42.36002,-123.554896
+40931,OR,Klamath County,144.0,Overall,Asian and Pacific Islander,42.679816,-121.647345
+40915,OR,Benton County,101.0,Overall,Asian and Pacific Islander,44.486062,-123.427117
+40917,OR,Clatsop County,147.4,Overall,Asian and Pacific Islander,45.978102,-123.655713
+40918,OR,Columbia County,145.2,Overall,Asian and Pacific Islander,45.938519,-123.08902
+40922,OR,Deschutes County,135.8,Overall,Asian and Pacific Islander,43.908179,-121.226531
+40916,OR,Clackamas County,139.4,Overall,Asian and Pacific Islander,45.180134,-122.217724
+40926,OR,Harney County,203.1,Overall,Asian and Pacific Islander,43.0601,-118.962993
+40927,OR,Hood River County,139.4,Overall,Asian and Pacific Islander,45.514876,-121.649301
+40928,OR,Jackson County,184.6,Overall,Asian and Pacific Islander,42.427688,-122.726079
+40929,OR,Jefferson County,169.8,Overall,Asian and Pacific Islander,44.624249,-121.173942
+40923,OR,Douglas County,162.8,Overall,Asian and Pacific Islander,43.274613,-123.167092
+42003,PA,Perry County,170.5,Overall,Asian and Pacific Islander,40.404281,-77.253955
+41993,PA,Luzerne County,412.8,Overall,Asian and Pacific Islander,41.178442,-75.991826
+41998,PA,Monroe County,111.4,Overall,Asian and Pacific Islander,41.059636,-75.343711
+41999,PA,Montgomery County,132.9,Overall,Asian and Pacific Islander,40.209001,-75.371207
+42001,PA,Northampton County,118.1,Overall,Asian and Pacific Islander,40.752607,-75.31578
+42002,PA,Northumberland County,170.9,Overall,Asian and Pacific Islander,40.851057,-76.711432
+42375,PA,Pennsylvania,159.5,Overall,Asian and Pacific Islander,40.8749,-77.8022
+42018,PA,Westmoreland County,186.6,Overall,Asian and Pacific Islander,40.309554,-79.473888
+42007,PA,Schuylkill County,242.0,Overall,Asian and Pacific Islander,40.708252,-76.221918
+42015,PA,Warren County,360.2,Overall,Asian and Pacific Islander,41.816837,-79.279366
+42016,PA,Washington County,161.4,Overall,Asian and Pacific Islander,40.19159,-80.251791
+42017,PA,Wayne County,164.4,Overall,Asian and Pacific Islander,41.648109,-75.305709
+42019,PA,Wyoming County,287.7,Overall,Asian and Pacific Islander,41.521087,-76.017479
+42020,PA,York County,204.7,Overall,Asian and Pacific Islander,39.920856,-76.724073
+41992,PA,Lehigh County,121.5,Overall,Asian and Pacific Islander,40.613104,-75.598059
+42005,PA,Pike County,113.6,Overall,Asian and Pacific Islander,41.332094,-75.033322
+41991,PA,Lebanon County,132.3,Overall,Asian and Pacific Islander,40.36519,-76.460535
+42004,PA,Philadelphia County,165.2,Overall,Asian and Pacific Islander,40.001575,-75.141215
+41988,PA,Lackawanna County,229.2,Overall,Asian and Pacific Islander,41.438271,-75.612717
+41989,PA,Lancaster County,178.8,Overall,Asian and Pacific Islander,40.045643,-76.248947
+41955,PA,Allegheny County,196.8,Overall,Asian and Pacific Islander,40.468117,-79.986584
+41956,PA,Armstrong County,186.7,Overall,Asian and Pacific Islander,40.814168,-79.474039
+41957,PA,Beaver County,229.1,Overall,Asian and Pacific Islander,40.683683,-80.35077
+41959,PA,Berks County,129.8,Overall,Asian and Pacific Islander,40.420196,-75.929486
+41962,PA,Bucks County,121.6,Overall,Asian and Pacific Islander,40.33405,-75.109756
+41963,PA,Butler County,167.6,Overall,Asian and Pacific Islander,40.911194,-79.91714
+41966,PA,Carbon County,155.7,Overall,Asian and Pacific Islander,40.916756,-75.712144
+41954,PA,Adams County,146.4,Overall,Asian and Pacific Islander,39.871847,-77.222395
+41968,PA,Chester County,146.1,Overall,Asian and Pacific Islander,39.974333,-75.756116
+41973,PA,Crawford County,394.5,Overall,Asian and Pacific Islander,41.687276,-80.113335
+41974,PA,Cumberland County,182.8,Overall,Asian and Pacific Islander,40.167686,-77.264443
+41975,PA,Dauphin County,187.1,Overall,Asian and Pacific Islander,40.421145,-76.776689
+41976,PA,Delaware County,149.3,Overall,Asian and Pacific Islander,39.916157,-75.408196
+41978,PA,Erie County,495.3,Overall,Asian and Pacific Islander,41.994098,-80.038787
+41981,PA,Franklin County,166.9,Overall,Asian and Pacific Islander,39.926831,-77.724709
+41967,PA,Centre County,123.5,Overall,Asian and Pacific Islander,40.918985,-77.826509
+43906,RI,Rhode Island,191.7,Overall,Asian and Pacific Islander,41.682,-71.5617
+43867,RI,Washington County,193.0,Overall,Asian and Pacific Islander,41.479231,-71.631139
+43866,RI,Providence County,180.6,Overall,Asian and Pacific Islander,41.867001,-71.578219
+43864,RI,Kent County,197.1,Overall,Asian and Pacific Islander,41.670092,-71.598282
+43863,RI,Bristol County,278.9,Overall,Asian and Pacific Islander,41.727221,-71.297681
+43865,RI,Newport County,196.7,Overall,Asian and Pacific Islander,41.554335,-71.212183
+44494,SC,Laurens County,148.2,Overall,Asian and Pacific Islander,34.476258,-82.000397
+44748,SC,South Carolina,131.1,Overall,Asian and Pacific Islander,33.9187,-80.9014
+44510,SC,York County,150.9,Overall,Asian and Pacific Islander,34.972109,-81.185138
+44506,SC,Spartanburg County,127.5,Overall,Asian and Pacific Islander,34.929594,-81.985351
+44504,SC,Richland County,95.2,Overall,Asian and Pacific Islander,34.01509,-80.899038
+44502,SC,Orangeburg County,180.5,Overall,Asian and Pacific Islander,33.437671,-80.797327
+44500,SC,Newberry County,134.9,Overall,Asian and Pacific Islander,34.282826,-81.595905
+44496,SC,Lexington County,235.2,Overall,Asian and Pacific Islander,33.898331,-81.26877
+44493,SC,Lancaster County,155.8,Overall,Asian and Pacific Islander,34.686329,-80.706442
+44472,SC,Berkeley County,108.2,Overall,Asian and Pacific Islander,33.20361,-79.945399
+44487,SC,Greenville County,151.0,Overall,Asian and Pacific Islander,34.89121,-82.370869
+44490,SC,Horry County,187.4,Overall,Asian and Pacific Islander,33.923785,-78.998188
+44473,SC,Calhoun County,138.5,Overall,Asian and Pacific Islander,33.670448,-80.768658
+44474,SC,Charleston County,101.9,Overall,Asian and Pacific Islander,32.834098,-79.954098
+44466,SC,Aiken County,239.6,Overall,Asian and Pacific Islander,33.544639,-81.634504
+44482,SC,Dorchester County,102.6,Overall,Asian and Pacific Islander,33.082067,-80.405319
+44483,SC,Edgefield County,158.1,Overall,Asian and Pacific Islander,33.772065,-81.965873
+44486,SC,Georgetown County,122.4,Overall,Asian and Pacific Islander,33.441829,-79.336645
+44475,SC,Cherokee County,160.6,Overall,Asian and Pacific Islander,35.045202,-81.616624
+47175,TN,Robertson County,172.9,Overall,Asian and Pacific Islander,36.527787,-86.868883
+47410,TN,Tennessee,172.5,Overall,Asian and Pacific Islander,35.8465,-86.3351
+47196,TN,Wilson County,87.5,Overall,Asian and Pacific Islander,36.153157,-86.289248
+47195,TN,Williamson County,101.2,Overall,Asian and Pacific Islander,35.898314,-86.895185
+47185,TN,Tipton County,143.5,Overall,Asian and Pacific Islander,35.502552,-89.735269
+47184,TN,Sumner County,207.0,Overall,Asian and Pacific Islander,36.468554,-86.456499
+47180,TN,Shelby County,143.1,Overall,Asian and Pacific Islander,35.193989,-89.902798
+47176,TN,Rutherford County,377.8,Overall,Asian and Pacific Islander,35.845625,-86.40943
+47164,TN,Montgomery County,286.5,Overall,Asian and Pacific Islander,36.504566,-87.381014
+47112,TN,Cheatham County,146.2,Overall,Asian and Pacific Islander,36.265126,-87.085798
+47160,TN,Marshall County,195.9,Overall,Asian and Pacific Islander,35.479822,-86.75852
+47148,TN,Knox County,97.6,Overall,Asian and Pacific Islander,35.997542,-83.929824
+47134,TN,Hamilton County,160.8,Overall,Asian and Pacific Islander,35.18836,-85.162125
+47125,TN,Fayette County,141.4,Overall,Asian and Pacific Islander,35.199718,-89.41839
+47120,TN,Davidson County,152.1,Overall,Asian and Pacific Islander,36.168577,-86.777413
+47107,TN,Bradley County,274.1,Overall,Asian and Pacific Islander,35.160216,-84.855044
+47103,TN,Bedford County,375.8,Overall,Asian and Pacific Islander,35.520006,-86.452159
+47162,TN,Meigs County,200.1,Overall,Asian and Pacific Islander,35.521972,-84.803852
+50901,TX,Milam County,136.0,Overall,Asian and Pacific Islander,30.796601,-96.980023
+50898,TX,Medina County,167.9,Overall,Asian and Pacific Islander,29.357539,-99.11094
+50896,TX,Matagorda County,167.7,Overall,Asian and Pacific Islander,28.870504,-95.987045
+50890,TX,McLennan County,127.0,Overall,Asian and Pacific Islander,31.557737,-97.200857
+50887,TX,Lubbock County,291.1,Overall,Asian and Pacific Islander,33.613697,-101.820878
+50865,TX,Kendall County,178.1,Overall,Asian and Pacific Islander,29.94735,-98.719345
+50879,TX,Lee County,104.8,Overall,Asian and Pacific Islander,30.318842,-96.972498
+50876,TX,Lampasas County,200.0,Overall,Asian and Pacific Islander,31.201367,-98.244976
+50905,TX,Montgomery County,165.5,Overall,Asian and Pacific Islander,30.305575,-95.50759
+50864,TX,Kaufman County,178.8,Overall,Asian and Pacific Islander,32.605661,-96.286922
+50861,TX,Johnson County,130.6,Overall,Asian and Pacific Islander,32.383983,-97.366658
+50858,TX,Jefferson County,290.5,Overall,Asian and Pacific Islander,29.884669,-94.176312
+50881,TX,Liberty County,164.1,Overall,Asian and Pacific Islander,30.155052,-94.81795
+50913,TX,Nueces County,217.1,Overall,Asian and Pacific Islander,27.726025,-97.635938
+50934,TX,Rockwall County,158.8,Overall,Asian and Pacific Islander,32.905425,-96.406299
+50919,TX,Parker County,131.6,Overall,Asian and Pacific Islander,32.779165,-97.799359
+50923,TX,Potter County,191.5,Overall,Asian and Pacific Islander,35.405302,-101.891389
+50939,TX,San Jacinto County,191.1,Overall,Asian and Pacific Islander,30.583279,-95.168748
+50940,TX,San Patricio County,202.0,Overall,Asian and Pacific Islander,28.003671,-97.511283
+52287,TX,Texas,161.0,Overall,Asian and Pacific Islander,31.4906,-99.3517
+50962,TX,Travis County,123.3,Overall,Asian and Pacific Islander,30.334783,-97.788007
+50971,TX,Walker County,123.2,Overall,Asian and Pacific Islander,30.747205,-95.574661
+50972,TX,Waller County,164.0,Overall,Asian and Pacific Islander,30.012818,-95.994394
+50976,TX,Wharton County,170.0,Overall,Asian and Pacific Islander,29.277618,-96.231817
+50981,TX,Williamson County,114.2,Overall,Asian and Pacific Islander,30.65376,-97.600993
+50982,TX,Wilson County,180.1,Overall,Asian and Pacific Islander,29.176604,-98.093519
+50984,TX,Wise County,150.8,Overall,Asian and Pacific Islander,33.218652,-97.652229
+50851,TX,Hunt County,145.2,Overall,Asian and Pacific Islander,33.127424,-96.078751
+50916,TX,Orange County,180.3,Overall,Asian and Pacific Islander,30.127906,-93.895247
+50850,TX,Hudspeth County,160.2,Overall,Asian and Pacific Islander,31.458315,-105.390813
+50955,TX,Tarrant County,136.3,Overall,Asian and Pacific Islander,32.776215,-97.286653
+50840,TX,Hays County,133.6,Overall,Asian and Pacific Islander,30.053491,-98.039671
+50843,TX,Hidalgo County,156.7,Overall,Asian and Pacific Islander,26.401894,-98.191207
+50742,TX,Atascosa County,173.9,Overall,Asian and Pacific Islander,28.888644,-98.530393
+50743,TX,Austin County,169.7,Overall,Asian and Pacific Islander,29.88676,-96.2835
+50745,TX,Bandera County,180.5,Overall,Asian and Pacific Islander,29.754297,-99.258457
+50746,TX,Bastrop County,121.4,Overall,Asian and Pacific Islander,30.105996,-97.319446
+50750,TX,Bexar County,174.7,Overall,Asian and Pacific Islander,29.453009,-98.524606
+50751,TX,Blanco County,129.3,Overall,Asian and Pacific Islander,30.272461,-98.397174
+50755,TX,Brazoria County,163.0,Overall,Asian and Pacific Islander,29.192432,-95.462105
+50756,TX,Brazos County,96.3,Overall,Asian and Pacific Islander,30.670047,-96.301543
+50762,TX,Burnet County,131.5,Overall,Asian and Pacific Islander,30.797542,-98.182888
+50763,TX,Caldwell County,133.4,Overall,Asian and Pacific Islander,29.840307,-97.629289
+50771,TX,Chambers County,200.1,Overall,Asian and Pacific Islander,29.745536,-94.609789
+50778,TX,Collin County,151.8,Overall,Asian and Pacific Islander,33.190918,-96.565087
+50781,TX,Comal County,178.3,Overall,Asian and Pacific Islander,29.812207,-98.289011
+50749,TX,Bell County,197.0,Overall,Asian and Pacific Islander,31.045863,-97.482712
+50785,TX,Coryell County,160.3,Overall,Asian and Pacific Islander,31.395079,-97.800221
+50784,TX,Cooke County,196.1,Overall,Asian and Pacific Islander,33.641809,-97.204001
+50835,TX,Hardin County,246.2,Overall,Asian and Pacific Islander,30.332636,-94.390874
+50829,TX,Guadalupe County,178.0,Overall,Asian and Pacific Islander,29.586354,-97.955007
+50828,TX,Grimes County,197.6,Overall,Asian and Pacific Islander,30.550013,-95.987077
+50836,TX,Harris County,160.8,Overall,Asian and Pacific Islander,29.861852,-95.396028
+50819,TX,Galveston County,146.6,Overall,Asian and Pacific Islander,29.406798,-94.955315
+50826,TX,Grayson County,220.4,Overall,Asian and Pacific Islander,33.629885,-96.670432
+50809,TX,Fannin County,146.5,Overall,Asian and Pacific Islander,33.596707,-96.101851
+50808,TX,Falls County,175.8,Overall,Asian and Pacific Islander,31.258898,-96.935139
+50806,TX,El Paso County,145.4,Overall,Asian and Pacific Islander,31.775248,-106.244989
+50805,TX,Ellis County,152.2,Overall,Asian and Pacific Islander,32.359899,-96.79456
+50796,TX,Denton County,196.9,Overall,Asian and Pacific Islander,33.209951,-97.11254
+50792,TX,Dallas County,184.8,Overall,Asian and Pacific Islander,32.773775,-96.773226
+50814,TX,Fort Bend County,163.9,Overall,Asian and Pacific Islander,29.53311,-95.773761
+52664,UT,Tooele County,169.3,Overall,Asian and Pacific Islander,40.44969,-113.124549
+52828,UT,Utah,190.9,Overall,Asian and Pacific Islander,39.3231,-111.676
+52670,UT,Weber County,117.8,Overall,Asian and Pacific Islander,41.268952,-111.90544
+52668,UT,Washington County,259.6,Overall,Asian and Pacific Islander,37.275251,-113.501812
+52667,UT,Wasatch County,223.7,Overall,Asian and Pacific Islander,40.328713,-111.163087
+52666,UT,Utah County,243.1,Overall,Asian and Pacific Islander,40.118057,-111.671095
+52663,UT,Summit County,208.1,Overall,Asian and Pacific Islander,40.866929,-110.953949
+52653,UT,Juab County,311.6,Overall,Asian and Pacific Islander,39.697722,-112.777761
+52659,UT,Salt Lake County,206.1,Overall,Asian and Pacific Islander,40.666855,-111.915385
+52656,UT,Morgan County,187.3,Overall,Asian and Pacific Islander,41.093752,-111.566237
+52654,UT,Kane County,256.9,Overall,Asian and Pacific Islander,37.281396,-111.89034
+52648,UT,Duchesne County,249.9,Overall,Asian and Pacific Islander,40.299687,-110.421385
+52647,UT,Davis County,161.6,Overall,Asian and Pacific Islander,40.98796,-112.111288
+52661,UT,Sanpete County,233.1,Overall,Asian and Pacific Islander,39.371438,-111.569353
+54537,VA,Alexandria City,147.3,Overall,Asian and Pacific Islander,38.817962,-77.089986
+54542,VA,Chesapeake City,117.0,Overall,Asian and Pacific Islander,36.67996,-76.307157
+54543,VA,Colonial Heights City,193.1,Overall,Asian and Pacific Islander,37.266741,-77.40702
+54554,VA,Hopewell City,141.9,Overall,Asian and Pacific Islander,37.295279,-77.293665
+54548,VA,Falls Church City,128.7,Overall,Asian and Pacific Islander,38.879395,-77.178165
+54552,VA,Hampton City,153.8,Overall,Asian and Pacific Islander,37.05124,-76.366426
+54557,VA,Manassas City,169.7,Overall,Asian and Pacific Islander,38.745312,-77.483408
+54984,VA,Virginia,136.6,Overall,Asian and Pacific Islander,37.5188,-78.8507
+54560,VA,Newport News City,145.9,Overall,Asian and Pacific Islander,37.099841,-76.513978
+54561,VA,Norfolk City,201.6,Overall,Asian and Pacific Islander,36.888726,-76.250461
+54563,VA,Petersburg City,265.8,Overall,Asian and Pacific Islander,37.203414,-77.397564
+54565,VA,Portsmouth City,193.1,Overall,Asian and Pacific Islander,36.842276,-76.362364
+54567,VA,Richmond City,164.1,Overall,Asian and Pacific Islander,37.532705,-77.478448
+54572,VA,Virginia Beach City,104.8,Overall,Asian and Pacific Islander,36.75915,-76.062086
+54536,VA,York County,141.0,Overall,Asian and Pacific Islander,37.238006,-76.561046
+54558,VA,Manassas Park City,169.7,Overall,Asian and Pacific Islander,38.772612,-77.445981
+54527,VA,Stafford County,138.5,Overall,Asian and Pacific Islander,38.421486,-77.459877
+54547,VA,Fairfax City,171.8,Overall,Asian and Pacific Islander,38.850144,-77.300683
+54514,VA,Prince William County,163.5,Overall,Asian and Pacific Islander,38.704735,-77.482983
+54526,VA,Spotsylvania County,121.2,Overall,Asian and Pacific Islander,38.188908,-77.658312
+54448,VA,Arlington County,129.6,Overall,Asian and Pacific Islander,38.884311,-77.106368
+54460,VA,Charles City County,167.7,Overall,Asian and Pacific Islander,37.358265,-77.063837
+54462,VA,Chesterfield County,152.7,Overall,Asian and Pacific Islander,37.380552,-77.592495
+54463,VA,Clarke County,119.6,Overall,Asian and Pacific Islander,39.111281,-77.997002
+54468,VA,Dinwiddie County,138.6,Overall,Asian and Pacific Islander,37.075412,-77.63823
+54470,VA,Fairfax County,127.8,Overall,Asian and Pacific Islander,38.836327,-77.281025
+54471,VA,Fauquier County,208.9,Overall,Asian and Pacific Islander,38.737504,-77.809053
+54443,VA,Albemarle County,77.0,Overall,Asian and Pacific Islander,38.022933,-78.556573
+54483,VA,Hanover County,180.0,Overall,Asian and Pacific Islander,37.762671,-77.496289
+54484,VA,Henrico County,174.0,Overall,Asian and Pacific Islander,37.534974,-77.404782
+54488,VA,James City County,86.2,Overall,Asian and Pacific Islander,37.328142,-76.775796
+54494,VA,Loudoun County,121.6,Overall,Asian and Pacific Islander,39.09072,-77.633987
+54503,VA,New Kent County,174.7,Overall,Asian and Pacific Islander,37.504451,-76.996056
+54511,VA,Powhatan County,180.3,Overall,Asian and Pacific Islander,37.551959,-77.926622
+54513,VA,Prince George County,128.0,Overall,Asian and Pacific Islander,37.188338,-77.22427
+54478,VA,Goochland County,175.4,Overall,Asian and Pacific Islander,37.720144,-77.916018
+55506,VT,Chittenden County,204.1,Overall,Asian and Pacific Islander,44.462066,-73.077858
+56100,WA,Pierce County,152.1,Overall,Asian and Pacific Islander,47.016509,-122.091858
+56102,WA,Skagit County,126.3,Overall,Asian and Pacific Islander,48.472843,-121.723202
+56103,WA,Skamania County,144.7,Overall,Asian and Pacific Islander,46.019565,-121.912816
+56104,WA,Snohomish County,138.5,Overall,Asian and Pacific Islander,48.042656,-121.695733
+56105,WA,Spokane County,154.8,Overall,Asian and Pacific Islander,47.619329,-117.404952
+56110,WA,Whatcom County,139.4,Overall,Asian and Pacific Islander,48.824138,-121.703658
+56107,WA,Thurston County,175.2,Overall,Asian and Pacific Islander,46.905094,-122.827403
+56109,WA,Walla Walla County,189.3,Overall,Asian and Pacific Islander,46.230045,-118.475382
+56111,WA,Whitman County,183.2,Overall,Asian and Pacific Islander,46.897291,-117.524841
+56112,WA,Yakima County,159.4,Overall,Asian and Pacific Islander,46.455368,-120.739432
+56319,WA,Washington,146.6,Overall,Asian and Pacific Islander,47.378,-120.428
+56099,WA,Pend Oreille County,175.2,Overall,Asian and Pacific Islander,48.533154,-117.274482
+56106,WA,Stevens County,174.1,Overall,Asian and Pacific Islander,48.396264,-117.856276
+56097,WA,Okanogan County,143.0,Overall,Asian and Pacific Islander,48.55019,-119.741833
+56101,WA,San Juan County,144.4,Overall,Asian and Pacific Islander,48.533638,-123.080701
+56095,WA,Lincoln County,173.6,Overall,Asian and Pacific Islander,47.573328,-118.419292
+56096,WA,Mason County,172.5,Overall,Asian and Pacific Islander,47.359071,-123.212778
+56077,WA,Chelan County,138.7,Overall,Asian and Pacific Islander,47.864962,-120.614777
+56079,WA,Clark County,146.9,Overall,Asian and Pacific Islander,45.774857,-122.481153
+56081,WA,Cowlitz County,145.9,Overall,Asian and Pacific Islander,46.186887,-122.679625
+56084,WA,Franklin County,236.7,Overall,Asian and Pacific Islander,46.532125,-118.899579
+56086,WA,Grant County,185.2,Overall,Asian and Pacific Islander,47.204873,-119.451498
+56076,WA,Benton County,163.4,Overall,Asian and Pacific Islander,46.236546,-119.514267
+56088,WA,Island County,125.9,Overall,Asian and Pacific Islander,48.151714,-122.555644
+56090,WA,King County,142.2,Overall,Asian and Pacific Islander,47.489873,-121.793879
+56091,WA,Kitsap County,161.6,Overall,Asian and Pacific Islander,47.611252,-122.685822
+56092,WA,Kittitas County,146.0,Overall,Asian and Pacific Islander,47.119922,-120.678034
+56093,WA,Klickitat County,126.6,Overall,Asian and Pacific Islander,45.870703,-120.786375
+56087,WA,Grays Harbor County,197.0,Overall,Asian and Pacific Islander,47.150336,-123.77369
+56094,WA,Lewis County,166.6,Overall,Asian and Pacific Islander,46.572515,-122.396287
+57234,WI,Ozaukee County,185.3,Overall,Asian and Pacific Islander,43.384159,-87.943655
+57236,WI,Pierce County,203.5,Overall,Asian and Pacific Islander,44.718746,-92.424279
+57240,WI,Racine County,184.8,Overall,Asian and Pacific Islander,42.744926,-88.054637
+57242,WI,Rock County,113.7,Overall,Asian and Pacific Islander,42.668623,-89.063714
+57248,WI,Sheboygan County,258.6,Overall,Asian and Pacific Islander,43.723123,-87.940866
+57247,WI,Shawano County,205.1,Overall,Asian and Pacific Islander,44.790575,-88.758383
+57253,WI,Walworth County,145.9,Overall,Asian and Pacific Islander,42.666298,-88.534698
+57255,WI,Washington County,177.9,Overall,Asian and Pacific Islander,43.371402,-88.225439
+57256,WI,Waukesha County,163.6,Overall,Asian and Pacific Islander,43.018778,-88.300282
+57233,WI,Outagamie County,173.2,Overall,Asian and Pacific Islander,44.416827,-88.458443
+57245,WI,Sauk County,172.7,Overall,Asian and Pacific Islander,43.429932,-89.949664
+57229,WI,Milwaukee County,180.9,Overall,Asian and Pacific Islander,43.007998,-87.957322
+57208,WI,Fond du Lac County,221.5,Overall,Asian and Pacific Islander,43.755424,-88.486323
+57224,WI,Manitowoc County,341.8,Overall,Asian and Pacific Islander,44.119966,-87.807419
+57218,WI,Kenosha County,172.2,Overall,Asian and Pacific Islander,42.573276,-88.030378
+57216,WI,Jefferson County,129.9,Overall,Asian and Pacific Islander,43.021554,-88.774687
+57213,WI,Iowa County,159.5,Overall,Asian and Pacific Islander,43.001148,-90.132186
+57211,WI,Green County,190.1,Overall,Asian and Pacific Islander,42.674461,-89.599197
+57202,WI,Dodge County,176.1,Overall,Asian and Pacific Islander,43.416672,-88.7057
+57201,WI,Dane County,157.9,Overall,Asian and Pacific Islander,43.066511,-89.416993
+57199,WI,Columbia County,172.0,Overall,Asian and Pacific Islander,43.468916,-89.334485
+57196,WI,Calumet County,355.1,Overall,Asian and Pacific Islander,44.08408,-88.214768
+57193,WI,Brown County,334.8,Overall,Asian and Pacific Islander,44.453045,-87.998374
+57634,WI,Wisconsin,187.3,Overall,Asian and Pacific Islander,44.6333,-90.0068
+57225,WI,Marathon County,154.3,Overall,Asian and Pacific Islander,44.898394,-89.753082
+58318,WV,Jefferson County,114.7,Overall,Asian and Pacific Islander,39.303988,-77.863726
