@@ -14,11 +14,11 @@ import gmaps
 import time
 
 # Census & gmaps API Keys
-# census_api = input("What's your Census API key?")
-# gmap_api = input ("What's your Gmaps API key?")
-census_api = "85ac64b6b5a9c0901b00329d1ef41f0c53ccfc98"
+census_api = input("What's your Census API key?")
+gmap_api = input ("What's your Gmaps API key?")
+
 c = Census(census_api, year=2014)
-gmap_api = "AIzaSyCS1nhiSTclbrQT2_WtJHFvRLZ_eeuh5iI"
+
 
 # Configure gmaps
 # gmaps.configure(api_key=gkey)
