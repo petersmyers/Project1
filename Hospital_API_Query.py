@@ -7,27 +7,29 @@ from pandas.io.json import json_normalize
 
 heart_df = pd.read_csv("./Heart_Disease_Mortality_Data_Among_US_Adults_35_by_State_Territory_and_County.csv")
 
-print(heart_df.head())
+# print(heart_df.head())
 
 # print(heart_df.count())
 
-heart_county_df = heart_df[heart_df["GeographicLevel"]=="County"]
+heart_county_only_df = heart_df[heart_df["GeographicLevel"]=="County"]
 
-print(heart_county_df.head())
+# print(heart_county_df.head())
 
 # print(heart_county_df.count())
 
-heart_county_df = heart_county_df.head()
+# heart_county_only_df = heart_county_only_df.head()
 base_url = "https://maps.googleapis.com/maps/api/place/textsearch/json"
 
 target_type = "hospitals"
 gkey = input("Enter an API key. ")
 
-heart_county_json_df = pd.DataFrame(columns=["County", "JSON_Data"])
+rating = []
+rating_count = []
+hospital_name = []
+county = []
+state = []
 
-print(heart_county_json_df.head())
-
-for index, row in heart_county_df.iterrows():
+for index, row in heart_county_only_df.iterrows():
     target_county = row["LocationDesc"]
     target_county.replace(" ", "+")
     target_state = row["LocationAbbr"]
@@ -36,22 +38,27 @@ for index, row in heart_county_df.iterrows():
         "key": gkey
     }
 
-    county_json_data = requests.get(base_url, params=params)
-
-    # print(county_json_data)
-
-    county_json_data = county_json_data.json()
+    response = requests.get(base_url, params=params).json()
     
-    # with open("data.txt", "w") as f:
-    #     f.write(json.dumps(county_json_data, indent = 4, sort_keys = True))
+    for i in range(len(response["results"])):
+        rating.append(response["results"][i]["rating"])
+        rating_count.append(response["results"][i]["user_ratings_total"])
+        hospital_name.append(response["results"][i]["name"])
+        county.append(row["LocationDesc"])
+        state.append(row["LocationAbbr"])
+    
+# print(len(rating))
+# print(rating)
+# print(len(rating_count))
+# print(rating_count)
+# print(len(hospital_name))
+# print(hospital_name)
+# print(len(county))
+# print(county)
+# print(len(state))
+# print(state)
 
-    county_json_data_df = pd.DataFrame.from_dict(json_normalize(county_json_data["results"]), orient="columns")
-    print(county_json_data_df.head())
-#     for items in 
-#     try:
-#         heart_county_json_df.loc[index, "County"] = target_county
-#         heart_county_json_df.loc[index, "JSON_Data"] = county_json_data_df["results"]["name"]
-#     except (KeyError, IndexError):
-#         print("Well fuck")
-# with open("data.txt", "w") as f:
-#     f.write(heart_county_json_df["JSON_Data"])
+data = {"County": county, "State": state, "Hospital Name": hospital_name, "Rating": rating, "Rating Count": rating_count}
+hospital_data_df = pd.DataFrame(data, columns=["County", "State", "Hospital Name", "Rating", "Rating Count"])
+
+hospital_data_df.to_csv(r"cleaned_hospital_data.csv")

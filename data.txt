@@ -1,0 +1,148 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "formatted_address": "6000 Kanakanak Rd, Dillingham, AK 99576, USA",
+            "geometry": {
+                "location": {
+                    "lat": 59.00009420000001,
+                    "lng": -158.5355046
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 59.00149022989272,
+                        "lng": -158.53457065
+                    },
+                    "southwest": {
+                        "lat": 58.99879057010728,
+                        "lng": -158.53830645
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+            "id": "816df7b7b87fb8afe005dd22dba538e5b1b8f519",
+            "name": "Kanakanak Hospital",
+            "place_id": "ChIJe34Zex8951YRafISk4RxlCs",
+            "plus_code": {
+                "compound_code": "2F27+2Q Dillingham, Alaska, USA",
+                "global_code": "93F32F27+2Q"
+            },
+            "rating": 3,
+            "reference": "ChIJe34Zex8951YRafISk4RxlCs",
+            "types": [
+                "hospital",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "formatted_address": "Bristol Bay, United States",
+            "geometry": {
+                "location": {
+                    "lat": 57.9926243,
+                    "lng": -160.6391038
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 59.8954286,
+                        "lng": -157.6750543
+                    },
+                    "southwest": {
+                        "lat": 56.3073269,
+                        "lng": -164.1665842
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ed6a7f1f0fae2e96d1226788a59f2b93024bfb14",
+            "name": "Bristol Bay",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117255652498264292485/photos\">Ronalda angasan</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA15MaXMBjCk6i-u4xjDhPXWpCm_87rMsEXsChgX4uDJY8ZT6ticDntXuQJTJOyl9-0B41LSC6VR0Ll4A8iVRpu-uf7rl7LwGtEm5JYQtLeaXudKWNAOQMVqvL-PEoYvclEhCdgF0DPf8Bn21GbXgEs-iuGhQpHiG_AG8TEJ33Q0oGRS6SY81GEg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJocXUWgwwAlcR-n4GdjacIEY",
+            "rating": 3.6,
+            "reference": "ChIJocXUWgwwAlcR-n4GdjacIEY",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "formatted_address": "6000 Kanakanak Rd, Dillingham, AK 99576, USA",
+            "geometry": {
+                "location": {
+                    "lat": 59.0003693,
+                    "lng": -158.5363195
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 59.00166882989271,
+                        "lng": -158.5355105701073
+                    },
+                    "southwest": {
+                        "lat": 58.99896917010727,
+                        "lng": -158.5382102298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "213a8647711a4334109cc6a2fc5d6376b156b44a",
+            "name": "Bristol Bay Area Health Corporation",
+            "place_id": "ChIJYYyowyM951YRPZ3-uv6v48o",
+            "plus_code": {
+                "compound_code": "2F27+4F Dillingham, Alaska, USA",
+                "global_code": "93F32F27+4F"
+            },
+            "rating": 0,
+            "reference": "ChIJYYyowyM951YRPZ3-uv6v48o",
+            "types": [
+                "doctor",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "formatted_address": "Platinum, AK 99651, USA",
+            "geometry": {
+                "location": {
+                    "lat": 58.997989,
+                    "lng": -161.716364
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 58.99933882989271,
+                        "lng": -161.7150141701073
+                    },
+                    "southwest": {
+                        "lat": 58.99663917010727,
+                        "lng": -161.7177138298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "33a9521e67566caac8916676dc81a91e473bb684",
+            "name": "Bristol Bay Area Health Corporation",
+            "place_id": "ChIJ7zVyr6ggHlcRKtqXRqHRCP4",
+            "rating": 0,
+            "reference": "ChIJ7zVyr6ggHlcRKtqXRqHRCP4",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        }
+    ],
+    "status": "OK"
+}
