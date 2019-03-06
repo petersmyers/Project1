@@ -1,32 +1,33 @@
 # Project1
-Adam, Preeya, Peter
-### "Relationships between Opioid Addiction, Dispensaries, and Drug Stores"
 ***
-**Title:** "Relationships between Opioid Addiction, Dispensaries, and Drug Stores"
+**Title:** "The Ethnicity of Heart Disease"
 
 **Team Members:** Preeya Dahya, Peter Myers, Adam Feldstein
 
 **Project Description/Outline:**  
-- We will use google places to acquire information on the density of pharmacies/drug stores which in California and Colorado. We will also look at dispensary desnities in those states. We'll then acquire opioid addiction rates within those states and look at whether there are potential relationships between the addiction rates and the availability of dispensaries vs. pharmacies. 
+Heart disease is a massive killer in the US. We know there are many factors that contribute to the development of heart disease, from socioeconomic factors to genetics. Our group wants to better understand the prevelence of heart disease in different ethnicities (White, Black, Hispanic, Asian, American Indian) within the US. We will also probe socioeconomic factors by analyzing the availability of hopitals as well as fast food restaurants (by county). Using these data, we'll be able to look at simple correlations between heart disease, ethnicity, hospital availability, and fast food availability. 
     
 **Research Questions to Answer:**
-    1. What is the relationship between number of dispensaries and number of pharmacies within a state? 
-        * If possible, we'll also look at densities prior to legalization
-    2. Has the opioid addiction rate grown in Cali and Colorado at the same rate as it has in other states without legalization?
-    3. Is there a relationship between the rate of opioid addiction and the densitiy of dispensaries and pharmacies.
-    4. What about rehab centers? Is there a relationship between the density of rehab centers and the rate of opioid addiction? Is this different in Cali and Colorado?
+    1. Across the United States, what is the prevelence of heart disease in different ethnicities? 
+    2. Is the rate of heart disease proportional to overall population for different ehtnicities (i.e., 50% of heart disease cases are in ethnically White individuals, and 50% of the US population is ethnically White)?
+    3. Is there a relationship between heart disease rates and number of available hospitals, regardless of ethnicity?
+    4. Is there a relationship between heart disease rates and number of available fast food restaurants, regardless of ethnicity?
+    5. Can heart disease be predicted by ethnicity, hospital availability, and fast food restaurant availability?
 
 
 **Datasets to be Used:**
-- Google places
-- Death rates associated with opioid addiction by state across several years. YAY!
+- Heart Disease dataset from Kaggle
+- Google places for hospital and fast food availability by county
+- Census data for population by ethnicity
     
-**Rough Breakdown of Tasks:**
-- Adam - Question 4
-- Preeya- Question 3
-- Peter- Question 2 and 1
+**Breakdown of Tasks:**
+- Adam - Retrieve hospital data, visualizations
+- Preeya- Clean heart disease data set, retrieve fast food data, visualizations
+- Peter- Retrieve census data, visualization, statistics
 
 
 **Problems:**
-- Problems we maybe facing is actually getting the data on medical marijuana so in order to solve this we will have to be more creative in our way of searching for the data and what kinda of data sets we can look at. 
-- Different states differ in how long medical marijuana was legalized therefore we will not have complete and equal data for each state.
+- Making sure we have enough data after combining all datasets together
+- Destroying our credit cards by accidentally using the Google API 20 too many times 
+- Time. Time. Time.
+
